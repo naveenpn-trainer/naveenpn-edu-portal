@@ -1,0 +1,197 @@
+[{
+        "id": "seperator00",
+        "title": "Course Essentials",
+        "class": "seperator"
+    }, {
+        "id": "module0",
+        "title": "Program Overview",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Notes",
+                "links": [{
+                        "id": "module00-inline-link-01",
+                        "title": "Selenium WebDriver Program Overview",
+                        "url": "https://docs.google.com/document/d/1US_mXvS3UT2Msr4fny-yfiahDiXanrMCz1yISDXje0g/edit?usp=sharing"
+                    }
+                ]
+            }, {
+                "id": "module0-external-link-02",
+                "title": "Selenium WebDriver Git Repository",
+                "url": ""
+            }
+			, {
+                "id": "module0-link-100",
+                "title": "Ask Your Questions",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSdvAAHRaiHHJrdBv-xS053Ky2TZEEh2K-y4Su7RiQfMFTZM5w/viewform?usp=sf_link"
+            }
+        ]
+    },
+	{
+        "id": "seperator00",
+        "title": "Selenium 4.x (WebDriver)",
+        "class": "seperator"
+    }, {
+        "id": "module01",
+        "title": "Getting started with Selenium WebDriver",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Notes",
+                "links": [{
+                        "id": "module01-inline-link-01",
+                        "title": "Getting Started with Selenium WebDriver",
+                        "url": "https://docs.google.com/document/d/1AivCIeoCh_yjfzP3zJjxDqUkBURcRIA8yy8Z6UXg4NI/edit?usp=sharing"
+                    }	
+                ]
+            }, {
+			"id": "module01-assignments",
+			"title": "Assignments",
+			"links": [{
+						"id": "module01-assignment-link-01",
+                        "title": "Assignment-01",
+                        "url": "https://docs.google.com/document/d/1OCy6xI97xq4FOZXl_Z-0WekoPbnouZ941UZy6JUjLWE/edit?usp=sharing"
+					}
+				]
+			}, {
+				"id": "module01-quiz-link-03",
+                "title": "Quiz",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSfwdkqC9ZpXFRCsraYCH6uxHHOuKsSKk6Tw327p8mT8qmvkWA/viewform?usp=sf_link"
+            }
+        ] 
+		
+    }, {
+        "id": "module02",
+        "title": "WebElement Identification and Locator Types",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Notes",
+                "links": [{
+                        "id": "module02-inline-link-01",
+                        "title": "WebElement Identification and Locator Types",
+                        "url": "https://docs.google.com/document/d/1u3O5goBkms1ME_gL6tR_wrFjjJDIAA-7KGLcFk4hD6I/edit?usp=sharing"
+                    }
+                ]
+            }, {
+			"id": "module02-assignments",
+			"title": "Assignments",
+			"links": [{
+						"id": "module02-assignment-link-01",
+                        "title": "Assignment-01",
+                        "url": "https://docs.google.com/document/d/1YELJhyUUMiTE_JF9GSCotMtiCvS74FTrMnBGwjMnRxw/edit?usp=sharing"
+					}
+				]
+			}, {
+				"id": "module02-quiz-link-01",
+                "title": "Quiz",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSd-njnOszB1Hs1QAZsqULe3pOp8bpVWYUvmvZUs0cwUp8H_bA/viewform?usp=sf_link"
+            }
+		]	
+    }, {
+        "id": "module03",
+        "title": "Working with HTML Web Controls",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Notes",
+                "links": [{
+                        "id": "module03-inline-link-01",
+                        "title": "Working with HTML Web Controls",
+                        "url": "https://docs.google.com/document/d/1BUbKRi-T0bWDSBpvf6CClHSlKj_KiK0UkldJ6FmkfIM/edit?usp=sharing"
+                    }
+                ]
+            }, {
+			"id": "module03-assignments",
+			"title": "Assignments",
+			"links": [{
+						"id": "module03-assignment-link-01",
+                        "title": "Assignment-01",
+                        "url": "https://docs.google.com/document/d/1M_Z5agnBmF8FLQ5a2h3vvETtT8pM5XpbDlibdLVygmY/edit?usp=sharing"
+					}
+				]
+			}, {
+				"id": "module03-quiz-link-01",
+                "title": "Quiz",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSd-njnOszB1Hs1QAZsqULe3pOp8bpVWYUvmvZUs0cwUp8H_bA/viewform?usp=sf_link"
+            }
+		]	
+    },	{
+        "id": "module04",
+        "title": "Advance CSS Selector & XPath Locators",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Notes",
+                "links": [{
+                        "id": "module04-inline-link-01",
+                        "title": "Advance CSS Selector & XPath Locators",
+                        "url": "https://docs.google.com/document/d/1et4JpqHl0j-nzOcJAvWuwamD6zU3uftPr3uGRgD0B3I/edit?usp=sharing"
+                    }
+                ]
+            }, {
+			"id": "module04-assignments",
+			"title": "Assignments",
+			"links": [{
+						"id": "module04-assignment-link-01",
+                        "title": "Assignment-01",
+                        "url": "https://docs.google.com/document/d/1et4JpqHl0j-nzOcJAvWuwamD6zU3uftPr3uGRgD0B3I/edit?usp=sharing"
+					}
+				]
+			}, {
+				"id": "module04-quiz-link-01",
+                "title": "Quiz",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSfD2c_1wa6Ah5782p-UB3rOPQxvyiyrsiruZfMHfFr-37l4uA/viewform?usp=sf_link"
+            }
+		]
+    },	{
+        "id": "module05",
+        "title": "Working with Selenium WebDriver API",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Notes",
+                "links": [{
+                        "id": "module05-inline-link-01",
+                        "title": "Working with Selenium WebDriver API",
+                        "url": "https://docs.google.com/document/d/1et4JpqHl0j-nzOcJAvWuwamD6zU3uftPr3uGRgD0B3I/edit?usp=sharing"
+                    }
+                ]
+            }, {
+			"id": "module05-assignments",
+			"title": "Assignments",
+			"links": [{
+						"id": "module04-assignment-link-01",
+                        "title": "Assignment-01",
+                        "url": "https://docs.google.com/document/d/1et4JpqHl0j-nzOcJAvWuwamD6zU3uftPr3uGRgD0B3I/edit?usp=sharing"
+					}
+				]
+			}, {
+				"id": "module05-quiz-link-01",
+                "title": "Quiz",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSfD2c_1wa6Ah5782p-UB3rOPQxvyiyrsiruZfMHfFr-37l4uA/viewform?usp=sf_link"
+            }
+		]
+    },	{
+        "id": "module06",
+        "title": "Handling Web Driver Synchronization",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Notes",
+                "links": [{
+                        "id": "module06-inline-link-01",
+                        "title": "Handling Web Driver Synchronization",
+                        "url": "https://docs.google.com/document/d/1nSk5ip_mKiXJGJc5n78eKYDDyIm6-0Jm7ve6SDRxcgg/edit?usp=sharing"
+                    }
+                ]
+            }, {
+			"id": "module06-assignments",
+			"title": "Assignments",
+			"links": [{
+						"id": "module06-assignment-link-01",
+                        "title": "Assignment-01",
+                        "url": "https://docs.google.com/document/d/121iYD2nW-DBa2IrAJk4fClX2AsWZaxdHr7KJ_nvd8Gc/edit?usp=sharing"
+					}
+				]
+			}, {
+				"id": "module06-quiz-link-01",
+                "title": "Quiz",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSfD2c_1wa6Ah5782p-UB3rOPQxvyiyrsiruZfMHfFr-37l4uA/viewform?usp=sf_link"
+            }
+		]
+    }
+]

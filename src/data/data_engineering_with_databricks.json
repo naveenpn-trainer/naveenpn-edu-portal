@@ -1,0 +1,795 @@
+[{
+        "id": "seperator00",
+        "title": "Program Essentials",
+        "class": "seperator"
+    }, {
+        "id": "pe-module00",
+        "title": "Program Overview",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Installation Guides",
+                "links": [{
+                        "id": "pe-module00-inline-link-01",
+                        "title": "Course Resources",
+                        "url": "DatabricksResources.md"
+                    }, {
+                        "id": "pe-module00-inline-link-02",
+                        "title": "Import PySpark Development Workspace",
+                        "url": "https://docs.google.com/document/d/1Yrk5ERJwNP4gii9l-NE-EzQm4-fLosbeyUMw-qdpxM0/preview"
+                    }, {
+                        "id": "pe-module00-inline-link-03",
+                        "title": "Sign Up for Databricks Free Edition",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQy2eViX-c7jgSi7U1juS6wT_jM619ZVpou1MzI5aBhG0o8fmf8Ac05lUh-gmAEOR5m70lcgvpOEFks/pub?embedded=true"
+                    }
+                ]
+            }, {
+                "id": "pe-module00-external-link-02",
+                "title": "Big Data Engineering Git Repository",
+                "url": "https://github.com/naveenpn-trainer/big-data-engineering.git"
+            }
+        ]
+    }, {
+        "id": "pre-module02",
+        "class": "self-study",
+        "title": "Data Engineering Essentials - Prerequisite",
+        "subtopics": [{
+                "id": "pre-python",
+                "title": "Python Essentials",
+                "links": [{
+                        "id": "pe-python-external-link-01",
+                        "title": "Python Notes for Professionals - Ebook",
+                        "url": "https://drive.usercontent.google.com/u/0/uc?id=1jwsUw8EEuRY_8MlnD4N9S-U89R78HywQ&export=download"
+                    }, {
+                        "id": "pe-python-inline-link-02",
+                        "title": "Most Asked Python Interview Questions",
+                        "url": "https://docs.google.com/document/d/1CQkqs45M_ycCMHpuGE7BBGrT5UNmtayC9PTMQl_wYvA/pub?embedded=true"
+                    }, {
+                        "id": "pe-python-quiz-01",
+                        "title": "Knowledge Check",
+                        "url": "/practice_mcqs/python/quiz/1"
+                    }
+                ]
+            }, {
+                "id": "pre-sql",
+                "title": "SQL Essentials",
+                "links": [{
+                        "id": "pre-sql-external-link-01",
+                        "title": "SQL Notes for Professionals - Ebook",
+                        "url": "https://drive.usercontent.google.com/u/0/uc?id=1fmwwXYdp5geHf2Auqi6aaIf9PI-ZRgbz&export=download"
+                    }, {
+                        "id": "pre-sql-quiz-01",
+                        "title": "Knowledge Check",
+                        "url": "/practice_mcqs/sql/quiz/1"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "seperator01",
+        "title": "Data Engineering Concepts and Ecosystem",
+        "class": "seperator"
+    }, {
+        "id": "dece-module01",
+        "title": "Data Engineering Concepts and Frameworks",
+        "subtopics": [{
+                "id": "dece-module01-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "dece-module01-classwork-inline-link-01",
+                        "title": "Module Presentation",
+                        "url": "https://docs.google.com/presentation/d/e/2PACX-1vRN7f5LAY6y5OJDwaUvG0TvPgJSlIs1i0dMA2CQDb5ZUY9O5ZPwXiQF06Czxch6cfmQCi6odbbLnD9l/embed?start=false&loop=false&delayms=3000"
+                    }
+                ]
+            }, {
+                "id": "dece-module02-reference",
+                "title": "Reference Material & Links",
+                "links": [{
+                        "id": "dece-module01-notes-inline-link-01",
+                        "title": "Introduction to Big Data",
+                        "url": "https://docs.google.com/document/d/1P9TgxBNS5VA1lO0e66tMARUhQ3blvNJur7YL1G6ALBY/pub?embedded=true"
+                    }, {
+                        "id": "dece-module01-notes-inline-link-03",
+                        "title": "What is Data Engineering",
+                        "url": "https://docs.google.com/document/d/1vuEAd89cDiseqR9idFXPxukCafXwrAAy0VjmiIV959o/pub?embedded=true"
+                    }, {
+                        "id": "dece-module01-notes-inline-link-06",
+                        "title": "Important Data Engineering Terminologies",
+                        "url": "https://docs.google.com/document/d/1vuEAd89cDiseqR9idFXPxukCafXwrAAy0VjmiIV959o/pub?embedded=true"
+                    }, {
+                        "id": "dece-module01-notes-inline-link-50",
+                        "title": "Data Storage Types",
+                        "url": "https://docs.google.com/document/d/1p7Z38fL2IvN-8T0X3PRfFjViA43_oTyHmTjR63K_s0k/pub?embedded=true"
+                    }, {
+                        "id": "dece-module01-notes-inline-link-51",
+                        "title": "Big Data Project Phases",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRDjvskhWgNHftA9n4kvamK8PqVyNHVtH--I7Ot1zuFV-ebLRoITPPQssCLu5moYhzKtsm7vHaHXCTv/pub/embedded=true&rm=demo"
+                    }, {
+                        "id": "dece-module01-notes-inline-link-52",
+                        "title": "Integration of Data Management Architecture",
+                        "url": "https://docs.google.com/document/d/1oCQaMH_b2SKdrYCjHWQfZKiJoGqAbjzAtLjNGQKl7sM/pub?embedded=true"
+                    }, {
+                        "id": "dece-module01-notes-inline-link-53",
+                        "title": "Modern Data Engineering Architecture",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRKmZUPPbyR__g1CmFGO2G8c993a_dTGLjW-AlGc1NpYYsWxzquDsujDV5d-jmCkiUyNlVPGJ4Bsl1F/pub?embedded=true"
+                    }, {
+                        "id": "dece-module01-notes-inline-link-54",
+                        "title": "Azure Data Engineering Services",
+                        "url": "https://docs.google.com/document/d/1aZEcTXYKYob_95tpwKWiCB9FVXHkYlmXoaz_WAgyU00/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "hadoop-module",
+        "class": "self-study",
+        "title": "Hadoop 2.x : Distributed Storage and Processing",
+        "subtopics": [{
+                "id": "hadoop-module-notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "hadoop-module02-notes-inline-link-10",
+                        "title": "Getting Started with Hadoop 2.x",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSm1ITfWkBeA8m48tyzo9w-bLZCir1hGs3leW9w_KE1IsTGYZEX9BZtQ3Q00L6j7pw36zZ_Dh04J_Rt/pub?embedded=true"
+
+                    },{
+                        "id": "hadoop-module02-notes-inline-link-10",
+                        "title": "Hadoop 2.x Daemon Services & Architecture",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRUEXIuzNh_Errm5b-cQeawyoQx8H24kmikQik36iK65IjRcXBi4kxf9vAv_I_W9CCSz8C6UE__8ECK/pub?embedded=true"
+
+                    },{
+                        "id": "hadoop-module02-notes-inline-link-10",
+                        "title": "HDFS Architecture",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRRMqWeRrmAMMsDmNtGl5Netj31CMOPsVZD4311_8D3dxbhGiERaGbaufJKCMndLcosXnhgJS3vxdrf/pub?embedded=true"
+
+                    },{
+                        "id": "hadoop-module02-notes-inline-link-10",
+                        "title": "Hadoop 2.x Ecosystem",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vS7U66NHeBljq-O0N1SiYaPQYNi51x7_nX036TOCCQ1qY3GrdliJ9EbkM-lwv6ldtrNa5T2zxJ2t9Yv/pub?embedded=true"
+
+                    },{
+                        "id": "hadoop-module02-notes-inline-link-10",
+                        "title": "YARN Components & Architecture",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSoHebsnY8gpH2AszjMAkAep1yqyMAwfblhPbqyDtvu-gzioxRVxCwSO0i9lUiHqHhK8GTrVVGki8g0/pub?embedded=true"
+
+                    }
+                ]
+            }, {
+                "id": "module02-quiz",
+                "title": "Quiz",
+                "links": [{
+                        "id": "module02-quiz-inline-01",
+                        "title": "Big Data Engineering Concepts and Ecosystem",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfgecOfvzO9enYatQNf66lj52V6_7TNWLNE384509h_F-AkQw/viewform?usp=sf_link"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "seperator02",
+        "title": "Big Data Processing with Apache Spark",
+        "class": "seperator"
+    }, {
+        "id": "spark-m02",
+        "title": "Exploring Spark Core Concepts and RDD's",
+        "subtopics": [{
+                "id": "spark-m02-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "spark-m02-cw-inline-link-01",
+                        "title": "Understanding Apache Spark",
+                        "url": "https://docs.google.com/document/d/1UQBwZq_fVVaLj5QTukO6uMhi7e4lSdHqBdoIbrkhljI/pub?embedded=true"
+                    }, {
+                        "id": "spark-m02-cw-inline-link-02",
+                        "title": "Exploring Spark Core API - RDD's",
+                        "url": "https://docs.google.com/document/d/10mSOwB676aTMxTQSpvdi64AE-ZY2hMzkQzLZkTiYFiI/pub?embedded=true"
+                    }, {
+                        "id": "spark-m02-cw-inline-link-03",
+                        "title": "Hands-on Coding",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRnW5rPflLjyWSWZmWgvCGclSvr1tyCSHIFqnfhf6KQX5fl9DSfV6Vv0B-usKh6HupqiNhPNICMGjRe/pub?embedded=true"
+                    }, {
+                        "id": "spark-m02-kc",
+                        "title": "Knowledge Check",
+                        "url": "/practice_mcqs/spark/quiz/1"
+                    }
+                ]
+            }, {
+                "id": "spark-m02-reference",
+                "title": "Reference Material & Links",
+                "links": [{
+                        "id": "spark-m02-reference-inline-link-03",
+                        "title": "Exploring RDD API",
+                        "url": "https://docs.google.com/document/d/1AEZNOWAlY0ZqsQCaG-ktni9q_mPwWkkYh_o_yXu7nKo/edit?embedded=true&rm=demo"
+                    }
+                ]
+            }, {
+                "id": "spark-m02-assignments",
+                "title": "Assessments",
+                "links": [{
+                        "id": "spark-m02-assignment-inline-link-01",
+                        "title": "Assignment 01 - Retail Sales Analysis",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRVDcWm8hJUGWvS6uMTlBG4VI4aFVuu1z7C_ufq7wIyHVKPpXBOLoIzz37fgR81IWZxqRUy6bgxdI1R/pub?embedded=true"
+                    }, {
+                        "id": "spark-m02-quiz",
+                        "title": "Quiz",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLScEsmOR7uH_hQs5rqzuUlYW6btDVbYI-wK9BbjHIZjLaccVvQ/viewform?usp=sf_link"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "spark-module03",
+        "title": "Data Transformations using Spark SQL",
+        "subtopics": [{
+                "id": "spark-module03-notes",
+                "title": "Classwork",
+                "links": [{
+                        "id": "spark-module03-classwork-inline-link-05",
+                        "title": "Module Presentation",
+                        "url": "https://docs.google.com/presentation/d/e/2PACX-1vRms_73nxSJBXiSgAh0Y62qL8-GQEDV4ZxJ6QZ-LkmpO_QKmayu222Y_gr1gXcfAN4S5E8x4axMZ80M/embed?start=false&loop=false&delayms=3000"
+                    }, {
+                        "id": "spark-module03-classwork-inline-link-00",
+                        "title": "DataFrame API",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRX-r4uqWtv4LBRXueE_2nF2Y0mE2R5fm9_fSkAiPVX9Z1aG9RmKCn-51o2lvHg_aVUVvlc8EloyHSA/pub?embedded=true"
+                    }, {
+                        "id": "spark-module03-classwork-inline-link-01",
+                        "title": "DataFrame Essential Operations",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTzNItuZXeYyMkJGJTHGjdT4d2rY63uZx-1thTC70WglGlmL9TRFWNa88GbWJhzrp-rOMxhM3xohg1Z/pub?embedded=true"
+                    }, {
+                        "id": "spark-module03-classwork-inline-link-02",
+                        "title": "Complex Data types",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSj_MOYKPOUbLQloXVkaGMi6AqPeWmy335fBQ4nBnMombk9wlTjnLrZu60uOz6Fo8eNxCgv8yJ9qTm9/pub?embedded=true"
+                    }, {
+                        "id": "spark-module03-classwork-inline-link-03",
+                        "title": "Window Functions",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTNstjJ4hi6r8KjzbR_1sSGRj6EgZA1QBI6_81DxMtnS1eqdApoQIOULduV0Xh708GIIVUaa81xniZn/pub?embedded=true"
+                    }
+                ]
+            }, {
+                "id": "spark-module03-reference",
+                "title": "Reference Material & Links",
+                "links": [{
+                        "id": "spark-module03-reference-inline-link-01",
+                        "title": "SQL vs Spark DataFrame",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSopGM14AVOFgk0hRF7-nxipTMlCfe_H5ixI1oZVpr5GTZIj3f-PBsfr44CLtcIS4-pNQW-fqpXG5du/pub?embedded=true"
+                    }, {
+                        "id": "spark-module03-reference-inline-link-02",
+                        "title": "Blogs",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vR2JS2VYhk2MNDWCplH2otdhc2gqE2M8LKbbRtHajVsR_Q9aAbFrg9eu3_hDHqg0Dswddl_iwEPSepC/pub?embedded=true"
+                    }
+                ]
+            }, {
+                "id": "spark-module03-assignments",
+                "title": "Assessments",
+                "links": [{
+                        "id": "module04-assignments-inline-link-05",
+                        "title": "Assignment 01 - Retail Sales Analysis",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRVDcWm8hJUGWvS6uMTlBG4VI4aFVuu1z7C_ufq7wIyHVKPpXBOLoIzz37fgR81IWZxqRUy6bgxdI1R/pub?embedded=true"
+                    }, {
+                        "id": "module03-quiz",
+                        "title": "Quiz",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLScTigKgG-tdip-kRhYljJ6qn8CSglWpzLpE9uCaJ_mYoffsAQ/viewform?usp=sf_link"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "spark-module04",
+        "title": "Spark Architecture and Configuration",
+        "subtopics": [{
+                "id": "spark-module04-notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "spark-module04-notes-inline-link-01",
+                        "title": "Advance Concepts",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRpywMWSdpISP2rtE13mkErn6dZkLtO6x0XZURp2OJ86Y6TkvCvTb7RZtiD_d8L7MzQpvnnPsIe0ReH/pub?embedded=true"
+                    }
+                ]
+            }, {
+                "id": "spark-module04-quiz",
+                "title": "Quiz",
+                "url": ""
+            }
+        ]
+    }, {
+        "id": "spark-module07",
+        "title": "Performance Tuning and Best Practices",
+        "subtopics": [{
+                "id": "spark-module07-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "spark-module07-classwork-inline-link-01",
+                        "title": "API Selection",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vR9SqtzvtDkF7S2WO9bBiQ7UjD3iQZ4H9CXDFhey12Wca98_mBGKRya13-JFvJSkDnpW2MVQDWbUWe7/pub?embedded=true"
+                    }, {
+                        "id": "spark-module07-classwork-inline-link-02",
+                        "title": "Disk Partitioning",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSe7HFRItYtAFA2s-CuA1eMr2_j-9njROGu5UbX8BSV-tjgFQ7Yiv__J0GR2zAxIcPgyWOK5T-ba6k4/pub?embedded=true"
+                    }, {
+                        "id": "spark-module07-classwork-inline-link-03",
+                        "title": "Memory Partitioning",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTBUWpWMixApEj9Y79uCY1RWaJ3OY3aenTRBbnfsareH-Q_NY8JZwpt7Sf71wetfNrzywIErT4c_1Uv/pub?embedded=true"
+                    }, {
+                        "id": "spark-module07-classwork-inline-link-04",
+                        "title": "Using Efficient Data Formats",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vREwya6WjA2a_ksA39Wwy1eHBIuBb5mVAF2VCa5JcwhLXHWLppB0oK9qF1WyMU60qM1reFdWRccw6yf/pub?embedded=true"
+                    }, {
+                        "id": "spark-module07-classwork-inline-link-05",
+                        "title": "Data Persitence",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSzd2mLwlh2gPNIIiIdnwc_L3Iea0P6os0vK1PrKo-91bwMTCQpj9ZTVgOGsJz30SdsJLw_Sp2t1fVl/pub?embedded=true"
+                    }, {
+                        "id": "spark-module07-classwork-inline-link-06",
+                        "title": "Tungsten and Catalyst Optimization",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQH4uKDNIX1Ewwc2CHxtDI14bGayvcZejhBvcGMItiHoJeyC7ivDS1Qjb5fA1kwiOOEmhlskh4lXWao/pub?embedded=true"
+                    }, {
+                        "id": "spark-module07-classwork-inline-link-07",
+                        "title": "Query Optimization",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQwlBXoziP_GbbmG-a1JUA1uRJY7pAnobQdjm8IZKIGYZtnCZIb6c25pWAIr0Y21EcHzKq29XlNo38n/pub?embedded=true"
+                    }, {
+                        "id": "spark-module07-classwork-inline-link-08",
+                        "title": "Data Skew Handling",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRQPrh9bSIuUZXhR4twwURla-rQYtkNcfZOtqhRcbTPXX8uSt99xZ-Fh3ga_21jd9rBZPu9hMz506Pu/pub?embedded=true"
+                    }, {
+                        "id": "spark-module07-classwork-inline-link-09",
+                        "title": "Using UDFs Carefully",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRQUJ6lNREahLOHfTgs13RYimR94lxSuPLJDpgfatBemXOe4IqV173kFBEmvTbS4UAJa3fuDSlcfDwS/pub?embedded=true"
+                    }, {
+                        "id": "spark-module07-classwork-inline-link-10",
+                        "title": "Adaptive Query Execution (AQE)",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSlKYYC_MSWw1HdVXsj4szGhhVEKCNY3KBI_mHtCW0_xsFmPuKiyKyjXMQQibUisDE5oy03H-5_4fOD/pub?embedded=true"
+                    }, {
+                        "id": "spark-module07-classwork-inline-link-11",
+                        "title": "Cluster Configurations",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTKWabMB-fvcqDfR_beWXbbqGU8Fns8mzFC80mbyPXiLQ0roSsFh66rXuKyMr0jqZy5NgbZmcHRtjLG/pub?embedded=true"
+                    }, {
+                        "id": "spark-module07-classwork-inline-link-12",
+                        "title": "Serialization",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSk6Rwyo7pcAy-EkSZ4T6Kx9zOSQ6ddNHYABVl-vv8eEaA7rTMpxe7EXhKZCRrMj9fgH24HyeJv-omL/pub?embedded=true"
+                    }, {
+                        "id": "spark-module07-classwork-inline-link-13",
+                        "title": "Tungsten and Catalyst Optimization",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQ9Y_X6M6meHS0tujiL58tggZvXRQe97yDL_S4NXUN1XUXHkwtmoZ984iwsxYcpAhEWHfQ_dbnWlfru/pub?embedded=true"
+                    }
+                ]
+            }, {
+                "id": "spark-module07-reference",
+                "title": "Reference Material & Links",
+                "links": [{
+                        "id": "spark-module07-reference-inline-link-02",
+                        "title": "Blogs",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTD5zEmgRM3mGHU7NN3uV7j84JmAskXjHjJxAJrK5Sk6HdFNNfvBK_LneNQlQSR1G5UPbKYOecX9ZxQ/pub?embedded=true"
+                    }
+                ]
+            }, {
+                "id": "spark-module07-assignments",
+                "title": "Assessments",
+                "links": [{
+                        "id": "spark-module06-quiz",
+                        "title": "Quiz",
+                        "url": "https://example.com/"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "spark-capstone-project",
+        "title": "Capstone Projects",
+        "subtopics": [{
+                        "id": "spark-project-inline-link-01",
+                        "title": "Employee Skill & Salary Insights using PySpark",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vT69lOFxw1zbMbBO1Qt3sZz0F5XNL3-VV4uevi5iJy5oEapJCM1kYTVE1jBGf0TLHmS7cljnOOeq0oz/pub?embedded=true"
+                    },{
+                        "id": "spark-project-inline-link-02",
+                        "title": "Customer Purchase & Retention Analysis for a Retail Chain",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSLHcGMM2dT6-DF_3kSQyyPbF5N_Zompuxp0kNKGKDY1yvcjlI6RFjFE2FPQgEVvsJTCDccYhdEPxus/pub?embedded=true"
+                    }
+        ]
+    }, {
+        "id": "spark-interview-preparation-01",
+        "class": "self-study",
+        "title": "Apache Spark /  PySpark (Self-Guided Interview Prep)",
+        "subtopics": [{
+                "id": "spark-interview-preparation-01-notes",
+                "title": "Interview QA",
+                "links": [{
+                        "id": "spark-interview-preparation-01-notes-inline-link-01",
+                        "title": "Apache Spark Core Concepts and Architecture",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSRNiXpJ5g_j9cvckqV-Ssru9D867HahIpVTxuP_TPAZA9NARNSYd1OOjmoSywX4b7x6x7Hhd5WNIXD/pub?embedded=true"
+                    }, {
+                        "id": "spark-interview-preparation-01-notes-inline-link-02",
+                        "title": "RDD's",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTAVXg5is_9DimvHgaTg0t4qxQikMNq0CHtNIVUutT3gkCQIi8jEBpzpeOta91A0QWEM2qw8Zjdg_d4/pub?embedded=true"
+                    }, {
+                        "id": "spark-interview-preparation-01-notes-inline-link-03",
+                        "title": "DataFrame API",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSnzcDYwUwEzQ5k_wMrov8MsKz0VPrpUcP3mQsoOerSeB08cwLsVEY3fYd-OLnHeRowppWQSJmld6-u/pub?embedded=true"
+                    }
+                ]
+            }, {
+                "id": "spark-interview-preparation-05-notes",
+                "title": "Technical Rounds",
+                "links": [{
+                        "id": "spark-interview-preparation-05-notes-inline-link-01",
+                        "title": "E&Y",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQmNuWVW0BXD8Kyza0--rxHUdGBSVZeSb3Ks8fk3VY0a3BqDRmg9GqsLJSHmFoKA__DXVdvpJo0NWwR/pub?embedded=true"
+                    }, {
+                        "id": "spark-interview-preparation-05-notes-inline-link-02",
+                        "title": "Tiger Analytics",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQOypVrJ2leh3t59ITPREY9_g3WkeM4D-MLw4wAaIribvgJ7CIllVgfIlXh_shW2WG4TaZWuIoIPMWp/pub?embedded=true"
+                    }, {
+                        "id": "spark-interview-preparation-05-notes-inline-link-03",
+                        "title": "Flipkart",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSW7lRLyvyC5KNDw1IMaww5DMbFHv2Nlp1iZOOvewTerHFn2zxjNrlazyP_H91iaki-UI01guqY1SKw/pub?embedded=true"
+                    }, {
+                        "id": "spark-interview-preparation-05-notes-inline-link-04",
+                        "title": "Impetus",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vT_GJ_KLl0EZkTGm3AhDSFCP0vrZqkmTCfbuMqwyCVYpXrZGECBPj7QJ4VVwTIxpon_6bYXYoVv9DEQ/pub?embedded=true"
+                    }, {
+                        "id": "spark-interview-preparation-05-notes-inline-link-05",
+                        "title": "Pwc",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTPIxoegAR00Xi_rTNsggnZPcTEfiPmy97DrC0BCBCE7BdGl-2dA_31AYxcuM3qJzNtw0z5C6N3rajH/pub?embedded=true"
+                    }, {
+                        "id": "spark-interview-preparation-05-notes-inline-link-06",
+                        "title": "Virtusa",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTElSdQhBZTs8a4sFM7GTagh1PR8zbmT9De4AzzZZEde_hN5JQQBj0ukUfbDmVZoylw0BNM32YtR9TD/pub?embedded=true"
+                    }, {
+                        "id": "spark-interview-preparation-05-notes-inline-link-07",
+                        "title": "Walmart",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vS4E1G3XaerjnfwiswYr1kgDLwZA4mOncEI7Wvz-vwWQ0aMw5LCLrk3cC4_2uXyojQs_mp8kRSvbO8U/pub?embedded=true"
+                    }, {
+                        "id": "spark-interview-preparation-05-notes-inline-link-08",
+                        "title": "Deloite",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTUg1t5QK6d1DaccwRhCI3ytcKFG-GAzs_drxGChBgmQa-17MpI8rCzdHH3hKw17xD4EN7xaWp5RKBR/pub?embedded=true"
+                    }, {
+                        "id": "spark-interview-preparation-05-notes-inline-link-09",
+                        "title": "HCL",
+                        "url": "httpshttps://docs.google.com/document/d/e/2PACX-1vSyTbn7nTosobBNz_eIxP-1EyA-PeqUiQXfhI0sHQ70Fo_YeFy8dHAbb2sSDP8OWM31wYfKkG-E4BSH/pub?embedded=true"
+                    }
+                ]
+            }, {
+                "id": "spark-challenges",
+                "title": "Spark Code Challenges",
+                "links": [{
+                        "id": "spark-challenge-link-01",
+                        "title": "Spark Challenge 01",
+                        "url": "https://docs.google.com/document/d/1iHhgpeRO2Owh4l0IGKNOSOmG6z3SnEZQ0-FaRqSlJCE/preview"
+                    }, {
+                        "id": "spark-challenge-link-02",
+                        "title": "Spark Challenge 02",
+                        "url": "https://docs.google.com/document/d/1sXAq3Rl8Vge4EMzhY2wHiEqISFktiptYzbX9e6RNWME/preview"
+                    }, {
+                        "id": "spark-challenge-link-03",
+                        "title": "Spark Challenge 03",
+                        "url": "https://docs.google.com/document/d/1bY75j_2meMHWxpzfRPRT8S6PX-MSVNBFuwuCQBBxnv8/preview"
+                    }, {
+                        "id": "spark-challenge-link-04",
+                        "title": "Spark Challenge 04",
+                        "url": "https://docs.google.com/document/d/1rJRoXttPU_9Ksy02syhXMZf5zfC0FxTxuDPbGewZ4AY/preview"
+                    }, {
+                        "id": "spark-challenge-link-05",
+                        "title": "Spark Challenge 05",
+                        "url": "https://docs.google.com/document/d/1WL2zz3y890oIoS0N23DdzK2ztXz8dLQ1dyIoJtdprXk/preview"
+                    }, {
+                        "id": "spark-challenge-link-06",
+                        "title": "Spark Challenge 06",
+                        "url": "https://docs.google.com/document/d/1WL2zz3y890oIoS0N23DdzK2ztXz8dLQ1dyIoJtdprXk/preview"
+                    }, {
+                        "id": "spark-challenge-link-07",
+                        "title": "Spark Challenge 07",
+                        "url": "https://docs.google.com/document/d/1gyGKVDQmptn_lbNEP0DirVTrd6CfAs7tERzCaVa727A/preview"
+                    }, {
+                        "id": "spark-challenge-link-08",
+                        "title": "Spark Challenge 08",
+                        "url": "https://docs.google.com/document/d//137_xc9xF0irxaqoEYT677oX7aU0mB0DgpmIa92P6CjY/preview"
+                    }, {
+                        "id": "spark-challenge-link-09",
+                        "title": "Spark Challenge 09",
+                        "url": "https://docs.google.com/document/d/1zFk3tkoum3DXZPQXNIp0hf2s1wLytdkiUeg3vWZ_oTk/preview"
+                    }, {
+                        "id": "spark-challenge-link-10",
+                        "title": "Spark Challenge 10",
+                        "url": "https://docs.google.com/document/d/1gKZ1ycqsV1gymFVa76AmExY-jUBd-EoDAvKrBiuiWy8/preview"
+                    }, {
+                        "id": "spark-challenge-link-11",
+                        "title": "Spark Challenge 11",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSqlQkQ-1yBoPO85vz18x2qm23oVaAnO23krlWywhEzadvpqZdAP9sUYNdOfFf-YMqXLtsWP5KL2xxe/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "seperator02",
+        "title": "Data Engineering on Databricks Platform",
+        "class": "seperator"
+    }, {
+        "id": "databricks-module01",
+        "class": "self-study",
+        "title": "Exploring Microsoft Azure and Storage Services",
+        "subtopics": [{
+                "id": "databricks-module01-notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "module01-notes-inline-link-01",
+                        "title": "Getting Started with Microsoft Azure",
+                        "url": "https://docs.google.com/document/d/1MesSod1LdjAhk0gNDmueKfML-zqiLmx3Am_PQiQTMuI/pub?embedded=true"
+                    }, {
+                        "id": "module01-notes-inline-link-02",
+                        "title": "[Hands on] - Connecting to ADLS Storage Account",
+                        "url": "https://docs.google.com/document/d/1k8sXlz9iPIZIvxyDBZjZyCnVyn6Sdf1xAER4NN_7TOc/pub?embedded=true"
+                    }
+                ]
+            }, {
+                "id": "databricks-module01-quiz",
+                "title": "Quiz",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSc2iAM33Q5UhUWLVy4Y_6dhXA7UKMliNYrd27LuD5vKOTinag/viewform?usp=sf_link"
+            }
+        ]
+    }, {
+        "id": "databricks-module02",
+        "title": "Exploring Databricks Platform on Cloud",
+        "subtopics": [{
+                "id": "databricks-module02-notes",
+                "title": "Classwork",
+                "links": [{
+                        "id": "databricks-module02-notes-inline-link-01",
+                        "title": "Introduction to Databricks Platform",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQj9aNsaorMr6y00vojiWQXJ70qPRej-HuZLvtjydFeYcc1c9NbMVkHD7iCwlbUHTmaIFiKaRW2Gvm6/pub?embedded=true"
+                    }, {
+                        "id": "databricks-module02-notes-inline-link-02",
+                        "title": "Components of Databricks",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRcVO7K_-mfih0oFCx4jwaQYkKzVhNd13_CRfg9WUJNhtLqcqksCoEk_rm4M4qV31-8diyut2SAqTle/pub?embedded=true"
+
+                    }, {
+                        "id": "databricks-module02-notes-inline-link-03",
+                        "title": "Databricks Magic Commands",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRWjvUBtbjwkGSOZ9FzUufokvD78r41k6KZ6DIXQ3Q-dZqo3uTGqtHlBISJ-RKtBabB8wBxZ8VkGyUb/pub?embedded=true"
+
+                    }, {
+                        "id": "databricks-module02-notes-inline-link-04",
+                        "title": "Azure Databricks Utilities",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQNz5OuNgi0gQJ2AxpnE_xr_akxYCjSZ6afqT6j0LiwHJaFEA4R8O1dfQ_o_SDzMMh-S9-h6y9Q3iUs/pub?embedded=true"
+
+                    },{
+						"id": "databricks-module02-notes-inline-link-05",
+                        "title": "[Hands-on] Configure GitHub on Databricks",
+						"url":"https://docs.google.com/document/d/e/2PACX-1vS2p-m5ZBAT4gfJj5ACigyz4ilmHbWpT_PrPKO0oDXQyMhCTcVqpP5rgkZ6T2HvXNVnOivLGE9XprFp/pub?embedded=true"
+					}
+                ]
+            }, {
+                "id": "db-m02-reference",
+                "title": "Reference Material & Links",
+                "links": [{
+                        "id": "db-m02-ref-inline-link-01",
+                        "title": "Blogs",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQa_2dUQG2vHMJGOdPI4U2l1v72uJivtnVMs7ttdjbvn_fZNUpqDN_SWf563hA_vKyBB88HL_6Jlz2G/pub?embedded=true"
+                    }
+                ]
+            }, {
+                "id": "databricks-m02-quiz-inline-link-01",
+                "title": "Assessments",
+                "links": [{
+                        "id": "databricks-m02-quiz-inline-link-01",
+                        "title": "Quiz",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSckBDG81q3zO0G7OtihDjgojACHItiA6MRQyt4e8K3ZLfraQw/viewform?usp=sf_link"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "databricks-module03",
+        "title": "Lakehouse : Bridging Data Lakes and Warehouses",
+        "subtopics": [{
+                "id": "databricks-module03",
+                "title": "Classwork",
+                "links": [{
+                        "id": "databricks-module03-classwork-inline-link-01",
+                        "title": "Module Notes",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRIDHiMD1VMH6kwYv03irP_iVWLFHZcutabtvljJ3S1j7Z_HAnwyDJ9-P08uLyeoAhiXAoaHtfJ65mB/pub?embedded=true"
+                    }, {
+                        "id": "databricks-module03-classwork-inline-link-02",
+                        "title": "Hands-on Coding",
+                        "url": "https://example.com/"
+                    }
+                ]
+            }, {
+                "id": "databricks-module03-assignments",
+                "title": "Assessments",
+                "links": [{
+                        "id": "databricks-module03-assignments-inline-link-01",
+                        "title": "Assignment 01",
+                        "url": "https://example.com/"
+                    }, {
+                        "id": "databricks-module03-quiz",
+                        "title": "Quiz",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLScEsmOR7uH_hQs5rqzuUlYW6btDVbYI-wK9BbjHIZjLaccVvQ/viewform?usp=sf_link"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "databricks-m05",
+        "title": "Workflow Orchestration and Job Scheduling",
+        "subtopics": [{
+                "id": "databricks-m05-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "databricks-m05-classwork-inline-link-01",
+                        "title": "Medallion Architecture",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vT1PJJxc4cmfakZrqERWP6PTl4DNyjPgWBteXiWeDWsxJIeHIWE6U0suSiWgBE6UYeaq7SYp9yRKp9I/pub?embedded=true"
+                    }
+                ]
+            }, {
+                "id": "databricks-m05-reference",
+                "title": "Reference Material & Links",
+                "links": [{
+                        "id": "databricks-m05-reference-inline-link-01",
+                        "title": "Documentation - Medallion Architecture",
+                        "url": "https://www.databricks.com/glossary/medallion-architecture"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "databricks-module07",
+        "title": "Unity Catalog : Governance, Access, and Data Management",
+        "subtopics": [{
+                "id": "databricks-module07-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "databricks-module07-classwork-inline-link-01",
+                        "title": "Module Notes",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vS4iQ04W-_THY1FgEfNDUPCXvbImdANkDUuhzErJ4c_cI0V_8axFxWLl5HFe0kpS068uWTxhMtsb0MC/pub?embedded=true"
+                    }, {
+                        "id": "databricks-module07-classwork-inline-link-02",
+                        "title": "Hands on : Setup and Configure Unity Catalog",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSJdToSPlbM3fC52HJEbQ3cbGPveeD7enggMOufWaoo93WQ18DCFdVULrs_gCidLjzl8kveiNGSkbSE/pub?embedded=true"
+                    }, {
+                        "id": "databricks-module07-classwork-inline-link-03",
+                        "title": "Hands on : Unity Catalog User Provisioning",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSnHyWz4Cqvs2kUc7awr97fI9TzbayQAcxZZr_Gfqy8BOwKJZjNC0CwAjqj9KjQYc2uWqZUfmawLwdU/pub?embedded=true"
+                    }
+                ]
+            }, {
+                "id": "databricks-module06-reference",
+                "title": "Reference Material & Links",
+                "links": [{
+                        "id": "databricks-module06-reference-external-link-01",
+                        "title": "Without Unity Catalog in Databricks",
+                        "url": "https://blog.naveenpn.com/without-unity-catalog-in-databricks"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "databricks-module08",
+        "title": "Incremental Data Ingestion using Copy Into & Autoloader",
+        "subtopics": [{
+                "id": "databricks-module08-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "databricks-module08-classwork-inline-link-02",
+                        "title": "Notes - Data Ingestion using Copy Into",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQ0oFLuTMiCiwMyOtxks4Uv137S7_I1EgTz8jrtxLi1flmrEqnSD4Q5g1wDSHHigjhzlxESlAxbkDxS/pub?embedded=true"
+                    }, {
+                        "id": "databricks-module08-classwork-inline-link-01",
+                        "title": "Notes - Data Ingestion using Auto Loader",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQuX7Gf7ntA6YwM0zLUYJE96FQDFXsHfqhK6zbk3SFf0-KpaUSQvlHLwgUGnb0hudPj4qFYLfick-32/pub?embedded=true"
+                    }
+                ]
+            }, {
+                "id": "databricks-module08-assignments",
+                "title": "Assessments",
+                "links": [{
+                        "id": "databricks-module08-assignments-inline-link-01",
+                        "title": "Assignment 01",
+                        "url": "https://example.com/"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "databricks-module09",
+        "title": "Simplifying Data Pipelines with Delta Live Tables",
+        "subtopics": [{
+                "id": "databricks-module09-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "databricks-module09-classwork-inline-link-01",
+                        "title": "Module Presentation",
+                        "url": "https://docs.google.com/presentation/d/e/2PACX-1vQN0gmEyIhmmN7C88esVFQOqUzanjEFKynzyLMTHVn4qXjnxf7Ibk3FDcp0C8r9NTfsIRSA_VJeC54L/embed?start=false&loop=false&delayms=3000"
+                    }, {
+                        "id": "databricks-module09-classwork-inline-link-02",
+                        "title": "Hands-on : Setup and Configure Unity Catalog",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSJdToSPlbM3fC52HJEbQ3cbGPveeD7enggMOufWaoo93WQ18DCFdVULrs_gCidLjzl8kveiNGSkbSE/preview"
+                    }
+                ]
+            }, {
+                "id": "databricks-module09-assignments",
+                "title": "Assessments",
+                "links": [{
+                        "id": "databricks-module09-assignments-inline-link-01",
+                        "title": "Assignment 01",
+                        "url": "https://example.com/"
+                    }, {
+                        "id": "databricks-module09-quiz",
+                        "title": "Quiz",
+                        "url": "https://example.com/"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "databricks-interview-preparation",
+        "class": "self-study",
+        "title": "Databricks  Interview Preparation",
+        "subtopics": [{
+                "id": "databricks-interview-preparation-01-notes",
+                "title": "Interview QA",
+                "links": [{
+                        "id": "spark-interview-preparation-01-notes-inline-link-01",
+                        "title": "Databricks Interview QA",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTuSV2XeFVfRWX0phxRECpGECcwE47s9pd9zapldvMMtmzM56Y0cxsz5GA6onS_-xoUhPZ9gbzPfDnj/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "seperator00",
+        "title": "Data Engineering Certification Preparation (Self-Evaluation)",
+        "class": "seperator"
+    }, {
+        "id": "certification-module01",
+        "title": "Databricks Certified Associate Developer for Apache Spark",
+        "subtopics": [{
+                "id": "certification-module01-external-link-01",
+                "title": "Certification Link",
+                "url": "https://www.databricks.com/learn/certification/apache-spark-developer-associate"
+            }, {
+                "id": "certification-module01-notes",
+                "title": "Classwork",
+                "links": [{
+                        "id": "certification-module01-notes-inline-link-01",
+                        "title": "Model Paper",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRDY6q9NXId4KEkxw4x6_wMmiGH3FjxD_jCfK4IcQS7Ga4WDkrl8nXVmzSwXUEeUcOzKx_-gGdtPNw0/preview"
+                    }
+                ]
+            }, {
+                "id": "certification-module01-quiz",
+                "title": "module01 Exam",
+                "links": [{
+                        "id": "certification-module01-quiz-01",
+                        "title": "Practice Exam 01",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdtUI7VxOonynDRZ07syjk-s5NEFwtQWCqu4pn6p56M3WXJsg/viewform?usp=sf_link"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "certification-module02",
+        "class": "self-study",
+        "title": "Databricks Certified Data Engineer Associate Certification",
+        "subtopics": [{
+                "id": "certification-module02-external-link-01",
+                "title": "Certification Link",
+                "url": "https://www.databricks.com/learn/certification/data-engineer-associate"
+            }, {
+                "id": "certification-module02-notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "certification-module02-notes-inline-link-01",
+                        "title": "Prepartion Guide",
+                        "url": "https://docs.google.com/document/d/121a775fp35gsNvLNSHHONsS5ObZKkqS1WamMkKr4Swc/preview"
+                    }
+                ]
+            }, {
+                "id": "certification-module02-quiz",
+                "title": "Quiz",
+                "links": [{
+                        "id": "certification-module02-quiz-02",
+                        "title": "Practice Exam 02",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeqDaAxOlBNAJo_70eSGqJgAKij0gAGshMyGws7V1H9LH7aDQ/viewform?usp=sf_link"
+                    }
+                ]
+            }
+        ]
+    }
+]

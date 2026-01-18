@@ -1,0 +1,475 @@
+[{
+        "id": "seperator01",
+        "title": "Web Development Fundamentals",
+        "class": "seperator"
+    }, {
+        "id": "wdf-m01",
+        "title": "HTML, CSS",
+        "subtopics": [{
+                "id": "wdf-m01a-cw",
+                "title": "HTML",
+                "links": [{
+                        "id": "wdf-m01a-cw-inline-link-01",
+                        "title": "HTML Fundamentals",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRnlK8A4c1mdPYcEIi6xCIpZGPSfALOq_v92zaHhnjNIFZzfnfH_qBxIYQ5FcJDy8Ppe-_DQbTd9ASp/pub?embedded=true"
+                    },{
+                        "id": "wdf-m01a-cw-inline-link-02",
+                        "title": "HTML 5 Fundamentals",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQ0nVFav0PLAQ57q108jWEIQFlZ3PIhSRDtSJh9-r-LK3q9M8LYIMsKxFmxLUk0eZ1LuwSBhepD77O4/pub?embedded=true"
+                    },{
+                        "id": "wdf-m01a-cw-inline-link-03",
+                        "title": "CSS",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQ0nVFav0PLAQ57q108jWEIQFlZ3PIhSRDtSJh9-r-LK3q9M8LYIMsKxFmxLUk0eZ1LuwSBhepD77O4/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "wdf-m02",
+        "title": "Tailwind CSS: Build Responsive Web Design",
+        "subtopics": [{
+                "id": "wdf-m02-cw",
+                "title": "Classwork",
+                "links": [{
+                        "id": "wdf-m02-cw-inline-link-01",
+                        "title": "Getting Started with Tailwind CSS",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTO2HORvuqxH1ZTcWA2HyJ4jGXmKdZ0JsN4ZPL9luxz7EGLxLa2OcPxj-CQe1HLf4AYCy3HndVRfz1R/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "wdf-m03",
+        "title": "JavaScript",
+        "subtopics": [{
+                "id": "wdf-m03-cw",
+                "title": "Classwork",
+                "links": [{
+                        "id": "wdf-m03-cw-inline-link-01",
+                        "title": "Getting Started with JavaScript",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTO2HORvuqxH1ZTcWA2HyJ4jGXmKdZ0JsN4ZPL9luxz7EGLxLa2OcPxj-CQe1HLf4AYCy3HndVRfz1R/pub?embedded=true"
+                    },{
+                        "id": "wdf-m03-cw-inline-link-01",
+                        "title": "Functions",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTzWalkJLkq_7M_kIbk_aDOkwvg9vB_h5m38q3UA7dk-rhGC63dyAfTVUXJIrnteVwfbdOvKZQLCGD-/pub?embedded=true"
+                    },{
+                        "id": "wdf-m03-cw-inline-link-02",
+                        "title": "The document object",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQzzBr4YIvfxDZKAfr3ztRE9tQA9VBAYVVssdgEihi9V2jeLXGVO8XAVxyPPlBtJyCG72WQeJjvbkJE/pub?embedded=true"
+                    },{
+                        "id": "wdf-m03-cw-inline-link-01",
+                        "title": "Advance Java Script",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRSQWzeMA9JuHeY2ddW8FDTE8Avbyztt8II0wjoXeNOmNAsM-D2duhe-DtWnwu_29O_3dZiHHW8XKgo/pub?embedded=true"
+                    },{
+                        "id": "wdf-m01a-cw-inline-link-03",
+                        "title": "Web Development Quiz",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfiL9P4It-g4tYhrEBus8nkbPdMkWiTIvpoeD_JDOln1IpvMA/viewform?usp=header"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "wdf-m04",
+        "title": "TypeScript: Writing Robust JavaScript Applications",
+        "subtopics": [{
+                "id": "wdf-m04-cw",
+                "title": "Classwork",
+                "links": [{
+                        "id": "wdf-m04-cw-inline-link-01",
+                        "title": "Getting Started with JavaScript",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTO2HORvuqxH1ZTcWA2HyJ4jGXmKdZ0JsN4ZPL9luxz7EGLxLa2OcPxj-CQe1HLf4AYCy3HndVRfz1R/pub?embedded=true"
+                    },{
+                        "id": "wdf-m04-cw-inline-link-01",
+                        "title": "Functions",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTzWalkJLkq_7M_kIbk_aDOkwvg9vB_h5m38q3UA7dk-rhGC63dyAfTVUXJIrnteVwfbdOvKZQLCGD-/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "seperator02",
+        "title": "MongoDB - Document Database",
+        "class": "seperator"
+    },{
+        "id": "mongodb-m01",
+        "title": "Exploring MongoDB",
+        "subtopics": [{
+                "id": "mongodb-m01-cw",
+                "title": "Classwork",
+                "links": [{
+                        "id": "mongodb-m01-cw-inline-link-01",
+                        "title": "MongoDB CRUD Operation",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vS95-jBRtuq12ILlBCMN9ReiOsDN4j6FWgyMmy9QbtHINfJbemw8xyuKgPHhndOcvidqsPHHofnFW1m/pub?embedded=true"
+                    },{
+                        "id": "mongodb-m01-cw-inline-link-02",
+                        "title": "MongoDB Import",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSlT4CO0oFpqa3jNgPdmhYbI-ZqVTk-vA1KR_od0VIm-qZw-N7TXAxnIWGHapvSd4YG29FxpPwLX598/pub?embedded=true"
+                    },{
+                        "id": "mongodb-m01-cw-inline-link-03",
+                        "title": "Connect to MongoDB Atlas",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRXnO2bbDZD11LAwL3jSnWA4Aw8-_j7X4aS5ybQOqanSUouGH5zW67rd6mitdrS5iDhuFAxvO_49ar8/pub?embedded=true"
+                    }]
+            },
+			 {
+                "id": "mongodb-m01-reference",
+                "title": "Blogs and Reference Links",
+                "links": [
+                    {
+                        "id": "mongodb-m01-reference-inline-link-01",
+                        "title": "Blogs",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQHbK__itLKk-kyGTfuhBJZohBlgGesC7W2LuW4gU6JnVs1muNaQI09DKXhzcgCMvc2c7f6K_UWupE-/pub?embedded=true"
+                    }
+                ]
+            },
+			 {
+                "id": "mongodb-m01-assessments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "mongodb-m01-assignments-inline-link-01",
+                        "title": "Hands-on Assignment",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSYjHShWzr1P8Saqyy0UOSELfw7vGoIKVq00x3cHhPmWYp7SUmYI9kNODC393aQMWJPg_RG_9DP75aE/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "mongodb-m02",
+        "title": "Aggregation Framework",
+        "subtopics": [{
+                "id": "mongodb-m02-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "mongodb-m02-classwork-inline-link-01",
+                        "title": "Module Notes",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTKVLbEyoXrwPj0wxKoOYkUNlnT_zywvx1YFrv0C3_vuZw8c1b6CW2YYR2d4UknmqMcnWzqzgul1M1P/pub?embedded=true"
+                    }]
+            },
+			 {
+                "id": "java-module02-assignments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "java-module02-assignments-inline-link-01",
+                        "title": "Hands-on Assignment",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQqZ982BI9wH0plHnT9JVysBwYsvnriT5c0GlI4NMi42TXwDWB_S764WW6kab_4uEFBrL5WtBb3hZJB/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "mongodb-m03",
+        "title": "Connecting MongoDB with Python, NodeJS",
+        "subtopics": [{
+                "id": "mongodb-m03-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "mongodb-m03-classwork-inline-link-01",
+                        "title": "Connecting MongoDB with NodeJS",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQNwYKUUBMG3Ew6HqG5ljtCfyHF2J3So9W_zMyCMfUQJ-JHn9zmznjm8W48ZkrgaDsbJGPdXD02w2Jg/pub?embedded=true"
+                    },{
+                        "id": "mongodb-m03-classwork-inline-link-02",
+                        "title": "Connecting MongoDB with Python",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQFLY5YBk_OFK8kjqXLsD34ReA99na_DqiEPuhLQBPRSobt0hs2pNcUQl6kTk9fS290USVgm4UidkU-/pub?embedded=true"
+                    }]
+            },
+			 {
+                "id": "mongodb-m03-assignments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "mongodb-m03-assignments-inline-link-01",
+                        "title": "Hands-on Assignment",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSZ6S0Ska0pIiePjdfnuSg78K5xqZG9iTu6bW7OUpp2E5AmALAFucP5cUty4UlMZjOSXsHH6_LAs3vl/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "mongodb-capstone-project",
+        "title": "Capstone Projects",
+        "subtopics": [{
+                "id": "java-module07-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "java-capstone-classwork-inline-link-01",
+                        "title": "Book Catalog Management System",
+                        "url": "www.example.com"
+                    }]
+            }
+        ]
+    },{
+        "id": "seperator03",
+        "title": "NodeJS",
+        "class": "seperator"
+    },{
+        "id": "nodejs-m01",
+        "title": "Exploring Node.js Core",
+        "subtopics": [{
+                "id": "nodejs-m01-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "nodejs-m01-classwork-inline-link-01",
+                        "title": "Module Presentation",
+                        "url": "https://docs.google.com/presentation/d/e/2PACX-1vQnV_v_oM0tfsaZ5NPas3beB_dkDBx5LXf_q7YT3ZVmEQFHCUBAeG-AQhVvoersp0AmyrKx9XUl8doM/embed?start=false&loop=false&delayms=3000"
+                    }
+                ]
+            },{
+                "id": "nodejs-m01-reference",
+                "title": "Blogs and Reference Links",
+                "links": [
+                    {
+                        "id": "nodejs-m01-reference-inline-link-01",
+                        "title": "Blogs",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQHbK__itLKk-kyGTfuhBJZohBlgGesC7W2LuW4gU6JnVs1muNaQI09DKXhzcgCMvc2c7f6K_UWupE-/pub?embedded=true"
+                    },{
+                        "id": "nodejs-m01-classwork-inline-link-02",
+                        "title": "Node Package Management",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSQwFUM7s3-A6Gq7xFLCZTpPhCVL78ZzKIjXlGzitMH8zBP5H8eS2-HvZGsbAW1r7WfCIRqSyH-iTWL/pub?embedded=true"
+                    },{
+                        "id": "nodejs-m01-classwork-inline-link-03",
+                        "title": "Understanding Dependencies in Node.js",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQeFanH7hRXSlTTGC5w9TXV2QjcU-CKHqsO5muWnFG8w_zpSzGilu7IdzGXb1nqREypd0trzg0c4Dat/pub?embedded=true"
+                    }
+                ]
+            },
+			 {
+                "id": "nodejs-m01-assignments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "nodejs-m01-assignments-inline-link-01",
+                        "title": "Assignment 01 - Referencing a Utility JAR in Another Maven",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQyB93nxkf1zXwPJqpadB6PPsd8KoG9sJWfO2ELOR89eeD3rItaKSNspUgzW2pkdhVO1eTFBnW8Ybq6/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "nodejs-m02",
+        "title": "Asynchronous Programming in Node.js",
+        "subtopics": [{
+                "id": "nodejs-m02-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "nodejs-m02-classwork-inline-link-01",
+                        "title": "Module Presentation",
+                        "url": "https://docs.google.com/presentation/d/e/2PACX-1vS5lsK_fTjhlckcoRx90Go_3W8pDplR2PBXRXNWAzGf3v8I6nct2E2-p4XJGnxWL-4FyRM6s7kSVrpl/pub?start=false&loop=false&delayms=3000"
+                    }
+                ]
+            },
+			 {
+                "id": "nodejs-m02-assignments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "nodejs-m02-assignments-inline-link-01",
+                        "title": "Assignment 01",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vT3sigPa-hz4EPIxhN0EcSZTq5Zvxq71A8uUlarqtefbZh9TY9On872slC8CUL-dYb916oc0zwEADe-/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "seperator04",
+        "title": "ExpressJS",
+        "class": "seperator"
+    },{
+        "id": "expressjs-m01",
+        "title": "Getting Started with REST APIs and Express.js",
+        "subtopics": [{
+                "id": "expressjs-m01-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "expressjs-m01-classwork-inline-link-01",
+                        "title": "Module Presentation",
+                        "url": "https://docs.google.com/presentation/d/e/2PACX-1vTPBoHCcyVlS_aU1gF1biGC-qRdsxOrXS9Q8SW0wjg_Y57idjcAr13TeLviUfr53p4_NNwpS6c_TLFi/embed?start=false&loop=false&delayms=1000"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "expressjs-m02",
+        "title": "Building RESTful APIs with Express.js",
+        "subtopics": [{
+                "id": "expressjs-m02-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "expressjs-m02-classwork-inline-link-01",
+                        "title": "Module Presentation",
+                        "url": "https://docs.google.com/presentation/d/e/2PACX-1vTALQw0YxBWUdGfCDN0ibAfsiklpeSObEXppSEWHVhxExXON_emYP0vnTiOrIC6D1m81gQfL_qE1uCp/embed?start=false&loop=false&delayms=1000"
+						
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "expressjs-m03",
+        "title": "Connecting Express.js with Databases",
+        "subtopics": [{
+                "id": "expressjs-m03-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "expressjs-m03-classwork-inline-link-01",
+                        "title": "Module Notes",
+                        "url": "https://docs.google.com/presentation/d/e/2PACX-1vRriioqkan5cK3tTafAr0B5GeAdd5vDf3o5vyIs8Hsxc6pAA-n_l-5q38fgnzPVX3iaTzDoKagfztpw/pub?start=false&loop=false&delayms=1000"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "seperator05",
+        "title": "ReactJS",
+        "class": "seperator"
+    },{
+        "id": "reactjs-m01",
+        "title": "Working with Components",
+        "subtopics": [{
+                "id": "reactjs-m01-cw",
+                "title": "Classwork",
+                "links": [{
+                        "id": "reactjs-m03-cw-inline-link-01",
+                        "title": "Module Notes",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQgE0rSP53DtUccbOJCV7mqrVTrbhh2eSzQoF48JzoM-VID_zUTX3VnIw7s9G4aFXX08uoX6opixHOq/pub?embedded=true"
+                    }
+                ]
+            },
+			 {
+                "id": "reactjs-m01-assignments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "reactjs-m01-assignments-inline-link-01",
+                        "title": "Assignment 01",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSUVyrl2vAymO9WyotvrDg_vWfHImO9F1dvZZz5RgNdv7B8wzxBrjLwCSwV1N7SVaRSTuE6ip0JjbR5/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "reactjs-m01",
+        "title": "React Hooks",
+        "subtopics": [{
+                "id": "reactjs-m01-cw",
+                "title": "Classwork",
+                "links": [{
+                        "id": "reactjs-m03-cw-inline-link-01",
+                        "title": "Module Notes",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTvNh7oHCOPKNVSdrTUEfkN0KBHVvM47cePUSVGUCdbY3w_a8o11sWXjGvtw84cqOSWLE6XGUWwUsAe/pub?embedded=true"
+                    }
+                ]
+            },
+			 {
+                "id": "reactjs-m01-assignments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "reactjs-m01-assignments-inline-link-01",
+                        "title": "Assignment 01",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSjM9Us2wkbWQmOQwANSYvEmFBoE45kziya4AJyJOuoAG-1hPAHmVmT5-iw9DZNXNdwxSg7vrYSTb76/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "reactjs-m01",
+        "title": "Routing in React",
+        "subtopics": [{
+                "id": "reactjs-m01-cw",
+                "title": "Classwork",
+                "links": [{
+                        "id": "reactjs-m03-cw-inline-link-01",
+                        "title": "Module Notes",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSho687Es66ED7By1snT3hfvVwU_Yu5SLaBh0ID2VOsUIcEl4vuZE42EsW2VtNgB-Gcm-o6yyISa3LE/pub?embedded=true"
+                    }
+                ]
+            },
+			 {
+                "id": "reactjs-m01-assignments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "reactjs-m01-assignments-inline-link-01",
+                        "title": "Assignment 01",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSAcSefuGIFi4fefBdgFZ1GbBBkJOXE0bmrKHu4Qrc2ge0ZySxAM61OJcjqRfs28agToG_QfMue1y3n/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "reactjs-m01",
+        "title": "State Management",
+        "subtopics": [{
+                "id": "reactjs-m01-cw",
+                "title": "Classwork",
+                "links": [{
+                        "id": "reactjs-m03-cw-inline-link-01",
+                        "title": "Module Notes",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQbqhMT037ZCxq7oJYzvcoeWao0OvXxuPLX3gO1FmnBK5u_uaVjfdbj1_FwiQDtEY8DFU_bwyLHsN-T/pub?embedded=true"
+                    }
+                ]
+            },
+			 {
+                "id": "reactjs-m01-assignments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "reactjs-m01-assignments-inline-link-01",
+                        "title": "Assignment 01",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTONTJzlzwy-DPG9oiV2upQz03oH_xp8zkuGDt7ryY7kQI-pocCfX1FvnF9k_djPEz8wwcKT8reflnw/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "reactjs-m01",
+        "title": "Styling in React",
+        "subtopics": [{
+                "id": "reactjs-m01-cw",
+                "title": "Classwork",
+                "links": [{
+                        "id": "reactjs-m03-cw-inline-link-01",
+                        "title": "Module Notes",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTwp9-7FwP_uoblR1Z8VK5ZkyWFAKi0_E0RFbZ6CZQ8z1LhyOebfxRPTwAVToD-ihU9JNkiYERBZDNi/pub?embedded=true"
+                    }
+                ]
+            },
+			 {
+                "id": "reactjs-m01-assignments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "reactjs-m01-assignments-inline-link-01",
+                        "title": "Assignment 01",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQH0-laQLn3iQ7lz49WcOCizXMXEm8QjL8YnpGRjja9McQxxFPqYGil8RxDlwN7P58UAB71sjRCbFtm/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "reactjs-m07",
+        "title": "Build and Deployment",
+        "subtopics": [{
+                "id": "reactjs-m07-cw",
+                "title": "Classwork",
+                "links": [{
+                        "id": "reactjs-m07-cw-inline-link-01",
+                        "title": "Module Notes",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQAT0MDgd1CnyN01nWJUQKrD6XHwtmcR-adUsVVA4uxNHXKplBQRezjfCrjjrK-I3_UWFhaA3JcHdgK/pub?embedded=true"
+                    }
+                ]
+            },
+			 {
+                "id": "reactjs-m07-assignments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "reactjs-m07-assignments-inline-link-01",
+                        "title": "Assignment m07",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vR4rHB-6LEqwst7d7R2FmtyVI19gWuZ8vQyxtCbu0DV_eDgMgjKiLTEMedyYcEiVqlnpvgzyv3b3140/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    }
+]

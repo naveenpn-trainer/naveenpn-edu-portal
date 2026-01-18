@@ -1,0 +1,64 @@
+ {
+        "id": "spark-module06",
+        "title": "Stream Processing with Spark Structured Streaming",
+        "subtopics": [
+            {
+                "id": "spark-module06-classwork",
+                "title": "Classwork",
+                "links": [
+                    {
+                        "id": "spark-module06-classwork-inline-link-01",
+                        "title": "Module Presentation",
+                        "url": "https://docs.google.com/presentation/d/e/2PACX-1vQChJ3pQW4O4eZkgCI9GRlPnjpDQJ2quS28ZT-Rlr109uresi4JHOQHRp18lqmXTN8SlURVvcNQk0XP/embed?start=false&loop=false&delayms=3000"
+                    },
+                    {
+                        "id": "spark-module06-classwork-inline-link-02",
+                        "title": "Code Walkthrough",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSq10WA-N8qHnbdBA-bkOxbakImOGicUO4YCenZtVdPGh88XYabOgQy3NgghKqLnkltuBu7AWtkf0Da/pub?embedded=true"
+                    },
+                    {
+                        "id": "spark-module06-classwork-inline-link-03",
+                        "title": "Window Operations",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQCfSIn6JTdBxkH6ZCkbuK2cACCvL_l6r3r__pC-0BhoDZIyom7qq1SbCGAPoMABg12X4wkPLZHeCFf/pub?embedded=true"
+                    },
+                    {
+                        "id": "spark-module06-classwork-inline-link-04",
+                        "title": "Output Modes - Explanation",
+                        "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSQG98sHeRW6pTGQ4JqQDh-e1pYSuXYkFE3B1Rd_j6HKnz2BqGUXkv0Yx2h_3uLOI6qHnQi4uszmutJ/pubhtml"
+                    },
+                    {
+                        "id": "spark-module06-classwork-inline-link-05",
+                        "title": "Watermarking - Explanation",
+                        "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0S5ObIcLN1YC6leuzWmwM29rACw1-WMG_Q3Skw1gSCk89jKcQGcNFb0ygKZBGxL0s_uK_sAjc74EW/pub?embedded=true"
+                    }
+                ]
+            },
+            {
+                "id": "spark-module06-reference",
+                "title": "Reference Material & Links",
+                "links": [
+                    {
+                        "id": "spark-module06-reference-inline-link-01",
+                        "title": "Learning Material",
+                        "url": "https://example.com/"
+                    }
+                ]
+            },
+            {
+                "id": "spark-module06-assignments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "spark-module06-assignments-inline-link-01",
+                        "title": "Assignment 01 - Real-Time Air Quality Monitoring in Urban Areas",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vT7cRx4YAEQTrJQA0n-tazIV5EgctXdwxThhKS5a-mSEAc5YuUNS11NmQXYduMK5b2HbIQgYO1npQ14/pub?embedded=true"
+                    },
+                    {
+                        "id": "spark-module06-quiz",
+                        "title": "Quiz",
+                        "url": "https://example.com/"
+                    }
+                ]
+            }
+        ]
+    },

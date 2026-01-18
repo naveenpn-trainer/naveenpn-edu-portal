@@ -1,0 +1,852 @@
+{
+    "modules": [{
+            "id": 1,
+            "title": "Spark Core Components and RDD",
+			"duration": 900,
+            "description": "Core admin and environment management",
+            "questions": [{
+                    "id": 1,
+                    "question": "What is Apache Spark primarily used for?",
+                    "options": [
+                        "Real-time dashboard creation",
+                        "Distributed data processing",
+                        "Database indexing",
+                        "Web application hosting"
+                    ],
+                    "answer": "Distributed data processing",
+                    "explanation": "Apache Spark is a distributed computing framework optimized for large-scale data processing across clusters."
+                }, {
+                    "id": 2,
+                    "question": "Which programming model does Spark use?",
+                    "options": [
+                        "MapReduce",
+                        "Actor-based model",
+                        "Relational model",
+                        "Key-value model only"
+                    ],
+                    "answer": "MapReduce",
+                    "explanation": "Spark uses an extended MapReduce programming paradigm enabling transformations and actions on distributed datasets."
+                }, {
+                    "id": 3,
+                    "question": "What is an RDD in Spark?",
+                    "options": [
+                        "Relational Data Driver",
+                        "Resilient Distributed Dataset",
+                        "Remote Data Dispatcher",
+                        "Runtime Distributed Dataframe"
+                    ],
+                    "answer": "Resilient Distributed Dataset",
+                    "explanation": "RDD is Spark’s fundamental immutable distributed collection of objects that can be processed in parallel."
+                }, {
+                    "id": 4,
+                    "question": "Which of the following is a key feature of Spark?",
+                    "options": [
+                        "In-memory computation",
+                        "Only batch processing",
+                        "Works only with Hadoop",
+                        "Requires relational databases"
+                    ],
+                    "answer": "In-memory computation",
+                    "explanation": "Spark keeps data in memory for faster computation compared to disk-based frameworks."
+                }, {
+                    "id": 5,
+                    "question": "Which Spark component supports SQL queries?",
+                    "options": [
+                        "Spark Streaming",
+                        "Spark SQL",
+                        "MLlib",
+                        "GraphX"
+                    ],
+                    "answer": "Spark SQL",
+                    "explanation": "Spark SQL allows running SQL queries using DataFrames and the Catalyst optimizer."
+                }, {
+                    "id": 6,
+                    "question": "Which component is used for machine learning in Spark?",
+                    "options": [
+                        "GraphX",
+                        "Spark SQL",
+                        "MLlib",
+                        "Delta Lake"
+                    ],
+                    "answer": "MLlib",
+                    "explanation": "MLlib is Spark’s built-in scalable machine-learning library."
+                }, {
+                    "id": 7,
+                    "question": "What is the default cluster manager for Spark?",
+                    "options": [
+                        "Kubernetes",
+                        "YARN",
+                        "Mesos",
+                        "Standalone"
+                    ],
+                    "answer": "Standalone",
+                    "explanation": "Spark provides its own built-in cluster manager known as Standalone mode."
+                }, {
+                    "id": 8,
+                    "question": "Which API is the most optimized and recommended for modern Spark applications?",
+                    "options": [
+                        "RDD",
+                        "DataFrame",
+                        "Hadoop API",
+                        "Pig Latin"
+                    ],
+                    "answer": "DataFrame",
+                    "explanation": "DataFrames provide optimized execution through Catalyst and Tungsten and are recommended over RDDs."
+                }, {
+                    "id": 9,
+                    "question": "Which Spark component supports graph processing?",
+                    "options": [
+                        "Spark SQL",
+                        "GraphX",
+                        "Delta Engine",
+                        "Auto Loader"
+                    ],
+                    "answer": "GraphX",
+                    "explanation": "GraphX is Spark’s API for graph-parallel computation."
+                }, {
+                    "id": 10,
+                    "question": "Which of the following is an action in Spark?",
+                    "options": [
+                        "map()",
+                        "filter()",
+                        "collect()",
+                        "flatMap()"
+                    ],
+                    "answer": "collect()",
+                    "explanation": "Actions execute the computation and return results; collect() returns all data to the driver."
+                }, {
+                    "id": 11,
+                    "question": "Which of the following is a transformation in Spark?",
+                    "options": [
+                        "reduce()",
+                        "count()",
+                        "first()",
+                        "map()"
+                    ],
+                    "answer": "map()",
+                    "explanation": "map() is a transformation that creates a new RDD/DataFrame without triggering execution."
+                }, {
+                    "id": 12,
+                    "question": "Spark executes transformations using what strategy?",
+                    "options": [
+                        "Immediate execution",
+                        "Lazy evaluation",
+                        "Eager execution",
+                        "Random execution"
+                    ],
+                    "answer": "Lazy evaluation",
+                    "explanation": "Spark waits until an action is called before executing the transformations."
+                }, {
+                    "id": 13,
+                    "question": "What is SparkContext used for?",
+                    "options": [
+                        "To manage SQL queries",
+                        "To define data schemas",
+                        "To connect Spark applications to the cluster",
+                        "To build ML pipelines"
+                    ],
+                    "answer": "To connect Spark applications to the cluster",
+                    "explanation": "SparkContext initializes the connection to a Spark cluster and coordinates RDD operations."
+                }, {
+                    "id": 14,
+                    "question": "What is Catalyst in Spark?",
+                    "options": [
+                        "Cluster manager",
+                        "Optimizer for query execution",
+                        "Machine learning algorithm",
+                        "Graph computation engine"
+                    ],
+                    "answer": "Optimizer for query execution",
+                    "explanation": "Catalyst is Spark SQL’s query optimizer that optimizes logical and physical plans."
+                }, {
+                    "id": 15,
+                    "question": "Which engine optimizes memory and binary processing in Spark?",
+                    "options": [
+                        "Resolution Engine",
+                        "Tungsten Engine",
+                        "Photon Engine",
+                        "Catalyst Engine"
+                    ],
+                    "answer": "Tungsten Engine",
+                    "explanation": "Tungsten focuses on memory management and CPU optimization for fast execution."
+                }, {
+                    "id": 16,
+                    "question": "Which language is NOT supported by Spark?",
+                    "options": [
+                        "Scala",
+                        "Python",
+                        "Java",
+                        "PHP"
+                    ],
+                    "answer": "PHP",
+                    "explanation": "Spark supports Scala, Python, Java, and R but not PHP."
+                }, {
+                    "id": 17,
+                    "question": "What does Spark Streaming process?",
+                    "options": [
+                        "Static datasets only",
+                        "Incoming data in micro-batches",
+                        "Only SQL data",
+                        "Database transactions"
+                    ],
+                    "answer": "Incoming data in micro-batches",
+                    "explanation": "Spark Streaming uses micro-batch processing to handle continuous data streams."
+                }, {
+                    "id": 18,
+                    "question": "Which of the following is a benefit of DataFrames?",
+                    "options": [
+                        "Unstructured transformations only",
+                        "Automatic optimization",
+                        "Supports only RDD operations",
+                        "Requires manual schema inference"
+                    ],
+                    "answer": "Automatic optimization",
+                    "explanation": "DataFrames benefit from automatic optimization through Catalyst."
+                }, {
+                    "id": 19,
+                    "question": "What is a narrow transformation in Spark?",
+                    "options": [
+                        "Requires shuffling across partitions",
+                        "Depends on data from multiple partitions",
+                        "Each output partition depends on a single input partition",
+                        "Used only in SQL queries"
+                    ],
+                    "answer": "Each output partition depends on a single input partition",
+                    "explanation": "Narrow transformations operate within the same partition without shuffling."
+                }, {
+                    "id": 20,
+                    "question": "Which transformation requires data shuffling?",
+                    "options": [
+                        "map()",
+                        "filter()",
+                        "flatMap()",
+                        "groupBy()"
+                    ],
+                    "answer": "groupBy()",
+                    "explanation": "groupBy() requires data movement across partitions, causing a shuffle."
+                }, {
+                    "id": 21,
+                    "question": "Which component provides a structured API for batch and streaming?",
+                    "options": [
+                        "GraphX",
+                        "DataFrame API",
+                        "RDD API",
+                        "Spark Context"
+                    ],
+                    "answer": "DataFrame API",
+                    "explanation": "DataFrames unify structured batch and streaming operations under one API."
+                }, {
+                    "id": 22,
+                    "question": "What is PySpark?",
+                    "options": [
+                        "Python API for Apache Spark",
+                        "Machine Learning library",
+                        "A Framework for Graph Computation",
+                        "None of the above"
+                    ],
+                    "answer": "Python API for Apache Spark",
+                    "explanation": "Python API for Apache Spark"
+                }, {
+                    "id": 23,
+                    "question": "Which file format does Spark support natively?",
+                    "options": [
+                        "CSV",
+                        "JSON",
+                        "Parquet",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "explanation": "Spark supports CSV, JSON, Parquet, ORC, Avro, and many other formats."
+                }, {
+                    "id": 24,
+                    "question": "All methods to create RDD is present in which object?",
+                    "options": [
+                        "SparkSession",
+                        "SessionContext",
+                        "SparkContext",
+                        "RDD"
+                    ],
+                    "answer": "SessionContext",
+                    "explanation": "All the methods to create RDD is present in SparkContext object"
+                }, {
+                    "id": 25,
+                    "question": "What does the Spark driver program do?",
+                    "options": [
+                        "Runs tasks on worker nodes",
+                        "Stores data across the cluster",
+                        "Coordinates Spark jobs and tasks",
+                        "Controls only Spark Streaming"
+                    ],
+                    "answer": "Coordinates Spark jobs and tasks",
+                    "explanation": "The driver converts user code into execution plans and schedules tasks on executors."
+                }
+            ]
+        }, {
+            "id": 2,
+            "title": "Exploring Data Source API",
+            "description": "Core admin and environment management",
+
+            "questions": [{
+                    "id": 1,
+                    "question": "What is the primary purpose of Spark’s DataFrameReader?",
+                    "options": [
+                        "To execute SQL queries",
+                        "To load data from external sources into DataFrames",
+                        "To visualize DataFrames",
+                        "To optimize cluster performance"
+                    ],
+                    "answer": "To load data from external sources into DataFrames",
+                    "explanation": "DataFrameReader (spark.read) is used to load data from formats like CSV, JSON, Parquet, etc., into a DataFrame."
+                }, {
+                    "id": 2,
+                    "question": "Which command is used to access the DataFrameReader object?",
+                    "options": [
+                        "spark.load",
+                        "spark.connect",
+                        "spark.read",
+                        "spark.write"
+                    ],
+                    "answer": "spark.read",
+                    "explanation": "spark.read is the entry point for DataFrameReader, used to load structured data."
+                }, {
+                    "id": 3,
+                    "question": "What does inferSchema=True do when reading a CSV file?",
+                    "options": [
+                        "Infers column names automatically",
+                        "Allows Spark to detect column data types automatically",
+                        "Drops null values from the file",
+                        "Converts all data to strings"
+                    ],
+                    "answer": "Allows Spark to detect column data types automatically",
+                    "explanation": "inferSchema=True enables Spark to read the file and infer appropriate data types instead of defaulting to string."
+                }, {
+                    "id": 4,
+                    "question": "What is the default delimiter when using spark.read.csv()?",
+                    "options": [
+                        ",",
+                        "|",
+                        ":",
+                        ";"
+                    ],
+                    "answer": ",",
+                    "explanation": "Spark uses a comma as the default delimiter for CSV files."
+                }, {
+                    "id": 5,
+                    "question": "Which parameter allows changing the delimiter in CSV files?",
+                    "options": [
+                        "delimiter",
+                        "sep",
+                        "splitter",
+                        "fieldSeparator"
+                    ],
+                    "answer": "sep",
+                    "explanation": "The sep parameter defines the delimiter for CSV data."
+                }, {
+                    "id": 6,
+                    "question": "Which method displays the schema of a DataFrame?",
+                    "options": [
+                        "df.showSchema()",
+                        "df.printSchema()",
+                        "df.describeSchema()",
+                        "df.schemaView()"
+                    ],
+                    "answer": "df.printSchema()",
+                    "explanation": "printSchema() prints the hierarchical tree representation of the DataFrame schema."
+                }, {
+                    "id": 7,
+                    "question": "Which method displays the content of a DataFrame in Databricks notebooks?",
+                    "options": [
+                        "df.display()",
+                        "df.visualize()",
+                        "df.print()",
+                        "df.render()"
+                    ],
+                    "answer": "df.display()",
+                    "explanation": "df.display() is a Databricks-specific method for interactive DataFrame visualization."
+                }, {
+                    "id": 8,
+                    "question": "Which file format supports multiLine=True while reading?",
+                    "options": [
+                        "CSV",
+                        "TXT",
+                        "JSON",
+                        "Parquet"
+                    ],
+                    "answer": "JSON",
+                    "explanation": "multiLine=True is used mainly for reading JSON files where records span multiple lines."
+                }, {
+                    "id": 9,
+                    "question": "What does spark.read.json() return?",
+                    "options": [
+                        "An RDD",
+                        "A DataFrame",
+                        "A SQL table",
+                        "A text file object"
+                    ],
+                    "answer": "A DataFrame",
+                    "explanation": "Loading JSON via DataFrameReader returns a structured Spark DataFrame."
+                }, {
+                    "id": 10,
+                    "question": "Which of the following formats is NOT supported directly by DataFrameReader?",
+                    "options": [
+                        "Parquet",
+                        "JSON",
+                        "Delta",
+                        "Excel"
+                    ],
+                    "answer": "Excel",
+                    "explanation": "DataFrameReader doesn’t support Excel (xlsx) directly; external libraries are required."
+                }, {
+                    "id": 11,
+                    "question": "Which of the following creates a DataFrame from a CSV file?",
+                    "options": [
+                        "spark.createDataFrame('file.csv')",
+                        "spark.read.csv('file.csv')",
+                        "spark.load.csv('file.csv')",
+                        "spark.import.csv('file.csv')"
+                    ],
+                    "answer": "spark.read.csv('file.csv')",
+                    "explanation": "spark.read.csv() is the correct method to load CSV data into a DataFrame."
+                }, {
+                    "id": 12,
+                    "question": "Which option must be set to treat the first row of a CSV as column names?",
+                    "options": [
+                        "header=True",
+                        "columns=True",
+                        "useHeader=True",
+                        "names=True"
+                    ],
+                    "answer": "header=True",
+                    "explanation": "header=True instructs Spark to use the first row as column names."
+                }, {
+                    "id": 13,
+                    "question": "What is the result of type(spark.read)?",
+                    "options": [
+                        "DataFrameWriter",
+                        "SparkSession",
+                        "DataFrameReader",
+                        "RDD"
+                    ],
+                    "answer": "DataFrameReader",
+                    "explanation": "spark.read returns an instance of DataFrameReader."
+                }, {
+                    "id": 14,
+                    "question": "What does df.show() do?",
+                    "options": [
+                        "Prints schema",
+                        "Saves DataFrame",
+                        "Displays top rows of the DataFrame",
+                        "Runs SQL queries"
+                    ],
+                    "answer": "Displays top rows of the DataFrame",
+                    "explanation": "df.show() prints the first 20 rows in tabular format."
+                }, {
+                    "id": 15,
+                    "question": "Which method is used to load data from Parquet files?",
+                    "options": [
+                        "spark.read.parquet()",
+                        "spark.read.pq()",
+                        "spark.load.parquet()",
+                        "spark.parquet()"
+                    ],
+                    "answer": "spark.read.parquet()",
+                    "explanation": "Spark provides built-in Parquet support through spark.read.parquet()."
+                }, {
+                    "id": 16,
+                    "question": "What happens when inferSchema is not enabled for CSV files?",
+                    "options": [
+                        "Columns become integers automatically",
+                        "All columns are read as strings",
+                        "Spark throws an error",
+                        "Only numeric columns are detected"
+                    ],
+                    "answer": "All columns are read as strings",
+                    "explanation": "Without inferSchema=True, Spark defaults all CSV column types to string."
+                }, {
+                    "id": 17,
+                    "question": "Which of the following commands loads a pipe-delimited file?",
+                    "options": [
+                        "spark.read.csv('file.txt', delimiter='|')",
+                        "spark.read.csv('file.txt', sep='|')",
+                        "spark.read.delimited('file.txt','|')",
+                        "spark.read.csv('file.txt').pipe='|'"
+                    ],
+                    "answer": "spark.read.csv('file.txt', sep='|')",
+                    "explanation": "The sep parameter defines the delimiter used in CSV files."
+                }, {
+                    "id": 18,
+                    "question": "What does df.display() offer that df.show() does not?",
+                    "options": [
+                        "Faster execution",
+                        "Interactive visualization",
+                        "Ability to save files",
+                        "Support for Parquet files"
+                    ],
+                    "answer": "Interactive visualization",
+                    "explanation": "df.display() is a Databricks function for rich interactive table and chart views."
+                }, {
+                    "id": 19,
+                    "question": "Which method reads multiple JSON files from a folder?",
+                    "options": [
+                        "spark.read.multiJson()",
+                        "spark.read.json('/path/*.json')",
+                        "spark.json.load()",
+                        "spark.import.json()"
+                    ],
+                    "answer": "spark.read.json('/path/*.json')",
+                    "explanation": "Wildcards can be used in paths to load multiple JSON files at once."
+                }, {
+                    "id": 20,
+                    "question": "Which DataFrameReader option is useful for nested JSON files?",
+                    "options": [
+                        "multiLine=True",
+                        "header=True",
+                        "inferSchema=True",
+                        "rowFormat='nested'"
+                    ],
+                    "answer": "multiLine=True",
+                    "explanation": "multiLine=True allows Spark to parse JSON objects that span multiple lines."
+                }, {
+                    "id": 21,
+                    "question": "Which Spark method lets you preview the schema before loading?",
+                    "options": [
+                        "spark.read.schema()",
+                        "spark.read.infer()",
+                        "spark.read.option('preview', True)",
+                        "There is no preview function; Spark infers or accepts a provided schema"
+                    ],
+                    "answer": "There is no preview function; Spark infers or accepts a provided schema",
+                    "explanation": "Spark does not preview schema; you either infer or supply a schema manually."
+                }, {
+                    "id": 22,
+                    "question": "What happens when Spark encounters malformed JSON without handling options?",
+                    "options": [
+                        "It always fixes the file",
+                        "Spark fails the read operation",
+                        "It converts invalid rows to null",
+                        "It skips the malformed lines silently"
+                    ],
+                    "answer": "Spark fails the read operation",
+                    "explanation": "Spark throws an error unless options like mode='PERMISSIVE' are used."
+                }, {
+                    "id": 23,
+                    "question": "Which command lets Spark read data from a folder instead of a single file?",
+                    "options": [
+                        "spark.read.folder()",
+                        "spark.read.path()",
+                        "spark.read.csv('/path/')",
+                        "spark.read.csvFolder()"
+                    ],
+                    "answer": "spark.read.csv('/path/')",
+                    "explanation": "Spark automatically reads all files in a folder when a directory path is provided."
+                }, {
+                    "id": 24,
+                    "question": "What is the output of df.printSchema()?",
+                    "options": [
+                        "Rows of the DataFrame",
+                        "A tree representation of columns and data types",
+                        "File metadata",
+                        "Summary statistics"
+                    ],
+                    "answer": "A tree representation of columns and data types",
+                    "explanation": "printSchema() shows the hierarchical structure of column names and their types."
+                }, {
+                    "id": 25,
+                    "question": "Which of the following statements about DataFrameReader is TRUE?",
+                    "options": [
+                        "It can only read CSV and JSON formats",
+                        "It is accessed through spark.read",
+                        "It writes data to external storage",
+                        "It automatically optimizes queries"
+                    ],
+                    "answer": "It is accessed through spark.read",
+                    "explanation": "spark.read is the entry point for all DataFrameReader operations."
+                }
+            ]
+
+        }, {
+            "id": 3,
+            "title": "Core Data Frame Operations",
+            "description": "Core Data Frame Operations",
+
+            "questions": [{
+                    "id": 1,
+                    "question": "What does spark.read.csv() return when loading employee data?",
+                    "options": [
+                        "A Python list",
+                        "A Spark DataFrame",
+                        "A Pandas DataFrame",
+                        "A SQL Table"
+                    ],
+                    "answer": "A Spark DataFrame",
+                    "explanation": "spark.read.csv() loads structured data and returns a Spark DataFrame."
+                }, {
+                    "id": 2,
+                    "question": "Which parameter is used to specify a delimiter when reading CSV?",
+                    "options": [
+                        "split",
+                        "sep",
+                        "delimiter",
+                        "delim"
+                    ],
+                    "answer": "sep",
+                    "explanation": "The 'sep' option defines the delimiter for CSV files."
+                }, {
+                    "id": 3,
+                    "question": "Which function is used to reference a column programmatically?",
+                    "options": [
+                        "column()",
+                        "col()",
+                        "ref()",
+                        "select()"
+                    ],
+                    "answer": "col()",
+                    "explanation": "col() returns a Column object that can be used in DataFrame operations."
+                }, {
+                    "id": 4,
+                    "question": "What does the alias() function do in a select operation?",
+                    "options": [
+                        "Filters rows",
+                        "Renames a column",
+                        "Deletes a column",
+                        "Creates a backup column"
+                    ],
+                    "answer": "Renames a column",
+                    "explanation": "alias() is used for assigning alternate names to columns."
+                }, {
+                    "id": 5,
+                    "question": "Which method is used to exclude specific columns from a DataFrame?",
+                    "options": [
+                        "drop()",
+                        "remove()",
+                        "exclude()",
+                        "subselect()"
+                    ],
+                    "answer": "drop()",
+                    "explanation": "drop() removes one or more columns from a DataFrame."
+                }, {
+                    "id": 6,
+                    "question": "Which operator is used for OR conditions in PySpark filters?",
+                    "options": [
+                        "||",
+                        "|",
+                        "OR",
+                        "or"
+                    ],
+                    "answer": "|",
+                    "explanation": "PySpark uses | for OR conditions inside filter expressions."
+                }, {
+                    "id": 7,
+                    "question": "Which operator is used for AND conditions in PySpark?",
+                    "options": [
+                        "&&",
+                        "&",
+                        "AND",
+                        "and"
+                    ],
+                    "answer": "&",
+                    "explanation": "PySpark uses & for AND conditions in filter expressions."
+                }, {
+                    "id": 8,
+                    "question": "Which method filters rows based on a list of values?",
+                    "options": [
+                        "contains()",
+                        "isin()",
+                        "in()",
+                        "belongs()"
+                    ],
+                    "answer": "isin()",
+                    "explanation": "isin() checks whether column values exist in a supplied list."
+                }, {
+                    "id": 9,
+                    "question": "Which function sorts the DataFrame rows?",
+                    "options": [
+                        "orderBy()",
+                        "sortRows()",
+                        "arrange()",
+                        "sortByColumn()"
+                    ],
+                    "answer": "orderBy()",
+                    "explanation": "orderBy() is used to sort rows by one or more columns."
+                }, {
+                    "id": 10,
+                    "question": "Which function is used to create or update a column?",
+                    "options": [
+                        "updateColumn()",
+                        "createColumn()",
+                        "withColumn()",
+                        "modifyColumn()"
+                    ],
+                    "answer": "withColumn()",
+                    "explanation": "withColumn() allows adding new columns or updating existing ones."
+                }, {
+                    "id": 11,
+                    "question": "What does the when() function do?",
+                    "options": [
+                        "Defines conditional column expressions",
+                        "Sorts data",
+                        "Deletes rows",
+                        "Loads JSON files"
+                    ],
+                    "answer": "Defines conditional column expressions",
+                    "explanation": "when() is used to apply conditional logic when creating columns."
+                }, {
+                    "id": 12,
+                    "question": "Which function complements when() for handling unmatched cases?",
+                    "options": [
+                        "otherwise()",
+                        "else()",
+                        "default()",
+                        "fallback()"
+                    ],
+                    "answer": "otherwise()",
+                    "explanation": "otherwise() specifies the output for rows not matching the when() condition."
+                }, {
+                    "id": 13,
+                    "question": "What does dropDuplicates() do?",
+                    "options": [
+                        "Drops columns with duplicate names",
+                        "Deletes duplicate rows",
+                        "Deletes empty rows",
+                        "Removes null values"
+                    ],
+                    "answer": "Deletes duplicate rows",
+                    "explanation": "dropDuplicates() removes repeated rows based on column values."
+                }, {
+                    "id": 14,
+                    "question": "Which function is used to replace null values?",
+                    "options": [
+                        "removeNulls()",
+                        "fill()",
+                        "fillna()",
+                        "replaceNulls()"
+                    ],
+                    "answer": "fillna()",
+                    "explanation": "fillna() substitutes null values with replacements."
+                }, {
+                    "id": 15,
+                    "question": "Which method replaces specific values in a DataFrame?",
+                    "options": [
+                        "substitute()",
+                        "replace()",
+                        "swap()",
+                        "update()"
+                    ],
+                    "answer": "replace()",
+                    "explanation": "replace() replaces specified values in selected columns."
+                }, {
+                    "id": 16,
+                    "question": "Which function groups rows for aggregation?",
+                    "options": [
+                        "group()",
+                        "groupBy()",
+                        "aggregate()",
+                        "clusterBy()"
+                    ],
+                    "answer": "groupBy()",
+                    "explanation": "groupBy() groups rows by one or more columns."
+                }, {
+                    "id": 17,
+                    "question": "Which method is used to perform aggregate operations?",
+                    "options": [
+                        "rollup()",
+                        "cube()",
+                        "agg()",
+                        "sum()"
+                    ],
+                    "answer": "agg()",
+                    "explanation": "agg() defines custom aggregation logic over grouped DataFrames."
+                }, {
+                    "id": 18,
+                    "question": "What does count() do when used inside agg()?",
+                    "options": [
+                        "Counts columns",
+                        "Counts rows",
+                        "Counts files",
+                        "Counts partitions"
+                    ],
+                    "answer": "Counts rows",
+                    "explanation": "count() returns the number of rows per group or in the entire DataFrame."
+                }, {
+                    "id": 19,
+                    "question": "Which method returns only unique values from a column?",
+                    "options": [
+                        "distinct()",
+                        "unique()",
+                        "dropUnique()",
+                        "onlyDistinct()"
+                    ],
+                    "answer": "distinct()",
+                    "explanation": "distinct() removes duplicate rows or values."
+                }, {
+                    "id": 20,
+                    "question": "Which method displays the contents of the DataFrame in Databricks?",
+                    "options": [
+                        "df.show()",
+                        "df.display()",
+                        "df.print()",
+                        "df.table()"
+                    ],
+                    "answer": "df.display()",
+                    "explanation": "display() provides a richer visualization in Databricks notebooks."
+                }, {
+                    "id": 21,
+                    "question": "Which function removes a specific column?",
+                    "options": [
+                        "deleteColumn()",
+                        "removeColumn()",
+                        "drop()",
+                        "withColumnRemoved()"
+                    ],
+                    "answer": "drop()",
+                    "explanation": "drop() removes one or more columns from the DataFrame."
+                }, {
+                    "id": 22,
+                    "question": "Which method sorts rows in descending order?",
+                    "options": [
+                        "orderBy(desc())",
+                        "sortDescending()",
+                        "decreasing()",
+                        "sorted()"
+                    ],
+                    "answer": "orderBy(desc())",
+                    "explanation": "desc() is used within orderBy() for descending sort order."
+                }, {
+                    "id": 23,
+                    "question": "Which PySpark function checks if column values match a pattern?",
+                    "options": [
+                        "like()",
+                        "rlike()",
+                        "match()",
+                        "pattern()"
+                    ],
+                    "answer": "rlike()",
+                    "explanation": "rlike() performs regex-based pattern matching."
+                }, {
+                    "id": 24,
+                    "question": "Which expression filters rows based on a column equal to a value?",
+                    "options": [
+                        "col('desig').equalTo('Developer')",
+                        "col('desig').is('Developer')",
+                        "col('desig') == 'Developer'",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "explanation": "Spark supports both equalTo() and == operators for value comparison."
+                }, {
+                    "id": 25,
+                    "question": "Which method creates a new DataFrame from selected columns?",
+                    "options": [
+                        "pick()",
+                        "select()",
+                        "subset()",
+                        "columns()"
+                    ],
+                    "answer": "select()",
+                    "explanation": "select() chooses specific columns from a DataFrame to form a new one."
+                }
+            ]
+
+        }
+    ]
+}

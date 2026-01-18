@@ -1,0 +1,313 @@
+{
+    "modules": [{
+            "id": 1,
+            "title": "Python",
+			 "duration": 60,
+            "description": "Core admin and environment management",
+
+            "questions": [{
+                    "id": 1,
+                    "question": "Which of the following is a valid Python variable name?",
+                    "options": ["1value", "_value", "value-1", "class"],
+                    "answer": "_value",
+                    "explanation": "Variable names can start with a letter or underscore and cannot be keywords."
+                }, {
+                    "id": 2,
+                    "question": "Python is a ____ typed language.",
+                    "options": ["Statically", "Strongly", "Dynamically", "Loosely"],
+                    "answer": "Dynamically",
+                    "explanation": "Python determines variable types at runtime."
+                }, {
+                    "id": 3,
+                    "question": "Which keyword is used to define a function in Python?",
+                    "options": ["function", "def", "fun", "define"],
+                    "answer": "def",
+                    "explanation": "`def` is used to define a function in Python."
+                }, {
+                    "id": 4,
+                    "question": "What is the output of type(10)?",
+                    "options": ["int", "<class 'int'>", "integer", "number"],
+                    "answer": "<class 'int'>",
+                    "explanation": "type() returns the class of the object."
+                }, {
+                    "id": 5,
+                    "question": "Which symbol is used for comments in Python?",
+                    "options": ["//", "#", "/* */", "--"],
+                    "answer": "#",
+                    "explanation": "Python uses # for single-line comments."
+                }, {
+                    "id": 6,
+                    "question": "Which data structure maintains insertion order?",
+                    "options": ["Set", "Tuple", "Dictionary", "List"],
+                    "answer": "List",
+                    "explanation": "Lists maintain insertion order and allow duplicates."
+                }, {
+                    "id": 7,
+                    "question": "Which of the following is immutable?",
+                    "options": ["List", "Set", "Dictionary", "Tuple"],
+                    "answer": "Tuple",
+                    "explanation": "Tuples cannot be modified after creation."
+                }, {
+                    "id": 8,
+                    "question": "Which method adds an element to a set?",
+                    "options": ["append()", "add()", "insert()", "push()"],
+                    "answer": "add()",
+                    "explanation": "`add()` is used to insert elements into a set."
+                }, {
+                    "id": 9,
+                    "question": "Which method is used to get all keys from a dictionary?",
+                    "options": ["get()", "keys()", "values()", "items()"],
+                    "answer": "keys()",
+                    "explanation": "`keys()` returns all dictionary keys."
+                }, {
+                    "id": 10,
+                    "question": "What will list([1,2,3]) return?",
+                    "options": ["[1,2,3]", "(1,2,3)", "{1,2,3}", "Error"],
+                    "answer": "[1,2,3]",
+                    "explanation": "list() converts iterable to list."
+                }, {
+                    "id": 11,
+                    "question": "Which of the following removes duplicates?",
+                    "options": ["List", "Tuple", "Set", "Dictionary"],
+                    "answer": "Set",
+                    "explanation": "Sets store unique elements."
+                }, {
+                    "id": 12,
+                    "question": "What does len() do?",
+                    "options": ["Counts items", "Returns memory size", "Sorts items", "Deletes items"],
+                    "answer": "Counts items",
+                    "explanation": "len() returns the number of elements."
+                }, {
+                    "id": 13,
+                    "question": "Which comprehension creates a list?",
+                    "options": ["()", "{}", "[]", "<>"],
+                    "answer": "[]",
+                    "explanation": "Square brackets are used for list comprehension."
+                }, {
+                    "id": 14,
+                    "question": "What is the output of [x*x for x in range(3)]?",
+                    "options": ["[1,4,9]", "[0,1,4]", "[0,1,2]", "[1,2,3]"],
+                    "answer": "[0,1,4]",
+                    "explanation": "Squares of 0,1,2."
+                }, {
+                    "id": 15,
+                    "question": "Which creates a dictionary comprehension?",
+                    "options": ["{k:v for k,v in pairs}", "[k:v]", "(k:v)", "{k,v}"],
+                    "answer": "{k:v for k,v in pairs}",
+                    "explanation": "Dictionary comprehension uses key:value syntax."
+                }, {
+                    "id": 16,
+                    "question": "Which function applies a function to all items?",
+                    "options": ["filter()", "map()", "reduce()", "apply()"],
+                    "answer": "map()",
+                    "explanation": "map() applies a function to each element."
+                }, {
+                    "id": 17,
+                    "question": "Which function filters elements based on condition?",
+                    "options": ["map()", "filter()", "reduce()", "select()"],
+                    "answer": "filter()",
+                    "explanation": "filter() selects elements based on a predicate."
+                }, {
+                    "id": 18,
+                    "question": "Which module contains reduce()?",
+                    "options": ["math", "itertools", "functools", "operator"],
+                    "answer": "functools",
+                    "explanation": "reduce() is available in functools module."
+                }, {
+                    "id": 19,
+                    "question": "Lambda functions are ____.",
+                    "options": ["Named", "Anonymous", "Recursive", "Compiled"],
+                    "answer": "Anonymous",
+                    "explanation": "Lambda functions are unnamed functions."
+                }, {
+                    "id": 20,
+                    "question": "What is the output of (lambda x: x+1)(5)?",
+                    "options": ["5", "6", "Error", "None"],
+                    "answer": "6",
+                    "explanation": "Lambda adds 1 to the argument."
+                }, {
+                    "id": 21,
+                    "question": "Which keyword is used to create a class?",
+                    "options": ["class", "struct", "object", "define"],
+                    "answer": "class",
+                    "explanation": "class keyword defines a class."
+                }, {
+                    "id": 22,
+                    "question": "What does __init__ represent?",
+                    "options": ["Destructor", "Constructor", "Method", "Attribute"],
+                    "answer": "Constructor",
+                    "explanation": "__init__ initializes object state."
+                }, {
+                    "id": 23,
+                    "question": "What is self?",
+                    "options": ["Keyword", "Global variable", "Instance reference", "Class variable"],
+                    "answer": "Instance reference",
+                    "explanation": "self refers to current object."
+                }, {
+                    "id": 24,
+                    "question": "Which supports inheritance?",
+                    "options": ["Function", "Class", "Module", "Package"],
+                    "answer": "Class",
+                    "explanation": "Inheritance is a class-based feature."
+                }, {
+                    "id": 25,
+                    "question": "Which method is called when object is deleted?",
+                    "options": ["__del__", "__init__", "__remove__", "__exit__"],
+                    "answer": "__del__",
+                    "explanation": "__del__ is destructor method."
+                }, {
+                    "id": 26,
+                    "question": "Which keyword handles exceptions?",
+                    "options": ["catch", "except", "error", "handle"],
+                    "answer": "except",
+                    "explanation": "except block catches exceptions."
+                }, {
+                    "id": 27,
+                    "question": "Which block always executes?",
+                    "options": ["try", "except", "else", "finally"],
+                    "answer": "finally",
+                    "explanation": "finally always executes."
+                }, {
+                    "id": 28,
+                    "question": "Which keyword raises an exception?",
+                    "options": ["throw", "raise", "error", "except"],
+                    "answer": "raise",
+                    "explanation": "raise triggers an exception."
+                }, {
+                    "id": 29,
+                    "question": "Which exception occurs when dividing by zero?",
+                    "options": ["ValueError", "ZeroDivisionError", "TypeError", "IndexError"],
+                    "answer": "ZeroDivisionError",
+                    "explanation": "Division by zero causes ZeroDivisionError."
+                }, {
+                    "id": 30,
+                    "question": "Which exception handles invalid type operations?",
+                    "options": ["ValueError", "TypeError", "KeyError", "IndexError"],
+                    "answer": "TypeError",
+                    "explanation": "TypeError occurs due to invalid type usage."
+                }, {
+                    "id": 31,
+                    "question": "What does pass do?",
+                    "options": ["Stops loop", "Skips iteration", "Does nothing", "Ends program"],
+                    "answer": "Does nothing",
+                    "explanation": "pass is a null operation."
+                }, {
+                    "id": 32,
+                    "question": "Which loop executes at least once?",
+                    "options": ["for", "while", "do-while", "None"],
+                    "answer": "None",
+                    "explanation": "Python does not have do-while loop."
+                }, {
+                    "id": 33,
+                    "question": "Which keyword exits a loop?",
+                    "options": ["stop", "exit", "break", "pass"],
+                    "answer": "break",
+                    "explanation": "break exits the loop."
+                }, {
+                    "id": 34,
+                    "question": "Which keyword skips current iteration?",
+                    "options": ["continue", "pass", "break", "skip"],
+                    "answer": "continue",
+                    "explanation": "continue skips current loop iteration."
+                }, {
+                    "id": 35,
+                    "question": "Which converts string to integer?",
+                    "options": ["str()", "int()", "float()", "eval()"],
+                    "answer": "int()",
+                    "explanation": "int() converts to integer."
+                }, {
+                    "id": 36,
+                    "question": "What does isinstance(x, int) return?",
+                    "options": ["Type", "Boolean", "Integer", "String"],
+                    "answer": "Boolean",
+                    "explanation": "isinstance returns True or False."
+                }, {
+                    "id": 37,
+                    "question": "Which creates a shallow copy?",
+                    "options": ["copy()", "deepcopy()", "clone()", "duplicate()"],
+                    "answer": "copy()",
+                    "explanation": "copy() creates shallow copy."
+                }, {
+                    "id": 38,
+                    "question": "Which module supports deep copy?",
+                    "options": ["copy", "sys", "os", "math"],
+                    "answer": "copy",
+                    "explanation": "deepcopy is part of copy module."
+                }, {
+                    "id": 39,
+                    "question": "What does dict.items() return?",
+                    "options": ["Keys", "Values", "Key-value pairs", "Indexes"],
+                    "answer": "Key-value pairs",
+                    "explanation": "items() returns key-value pairs."
+                }, {
+                    "id": 40,
+                    "question": "Which function sorts a list in-place?",
+                    "options": ["sorted()", "sort()", "order()", "arrange()"],
+                    "answer": "sort()",
+                    "explanation": "sort() modifies the list in-place."
+                }, {
+                    "id": 41,
+                    "question": "Which returns a new sorted list?",
+                    "options": ["sort()", "sorted()", "order()", "arrange()"],
+                    "answer": "sorted()",
+                    "explanation": "sorted() returns a new list."
+                }, {
+                    "id": 42,
+                    "question": "Which operator checks identity?",
+                    "options": ["==", "=", "is", "equals"],
+                    "answer": "is",
+                    "explanation": "`is` checks memory identity."
+                }, {
+                    "id": 43,
+                    "question": "Which operator checks membership?",
+                    "options": ["in", "is", "has", "contains"],
+                    "answer": "in",
+                    "explanation": "`in` checks membership."
+                }, {
+                    "id": 44,
+                    "question": "Which creates an empty dictionary?",
+                    "options": ["{}", "[]", "()", "set()"],
+                    "answer": "{}",
+                    "explanation": "{} creates an empty dictionary."
+                }, {
+                    "id": 45,
+                    "question": "Which creates an empty set?",
+                    "options": ["{}", "set()", "[]", "()"],
+                    "answer": "set()",
+                    "explanation": "{} creates dict, set() creates empty set."
+                }, {
+                    "id": 46,
+                    "question": "What does enumerate() return?",
+                    "options": ["Index only", "Value only", "Index and value", "Iterator only"],
+                    "answer": "Index and value",
+                    "explanation": "enumerate returns index-value pairs."
+                }, {
+                    "id": 47,
+                    "question": "Which statement defines multiple inheritance?",
+                    "options": ["class A(B,C):", "class A extends B,C", "class A inherits B,C", "class A(B+C)"],
+                    "answer": "class A(B,C):",
+                    "explanation": "Multiple base classes define multiple inheritance."
+                }, {
+                    "id": 48,
+                    "question": "Which error occurs when key not found in dict?",
+                    "options": ["IndexError", "KeyError", "ValueError", "TypeError"],
+                    "answer": "KeyError",
+                    "explanation": "KeyError occurs for missing keys."
+                }, {
+                    "id": 49,
+                    "question": "Which function converts iterable to tuple?",
+                    "options": ["list()", "set()", "tuple()", "dict()"],
+                    "answer": "tuple()",
+                    "explanation": "tuple() converts iterable to tuple."
+                }, {
+                    "id": 50,
+                    "question": "Which keyword defines an abstract method?",
+                    "options": ["abstract", "@abstractmethod", "@interface", "@virtual"],
+                    "answer": "@abstractmethod",
+                    "explanation": "@abstractmethod is used with ABC module."
+                }
+            ]
+
+        }
+    ]
+}

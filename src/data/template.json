@@ -1,0 +1,126 @@
+{
+        "id": "module02",
+        "title": "Apache Spark Core Concepts and RDD's",
+        "subtopics": [{
+                "id": "module02-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "module02-classwork-inline-link-01",
+                        "title": "Module Presentation",
+                        "url": "https://example.com/"
+                    }, {
+                        "id": "module02-classwork-inline-link-02",
+                        "title": "Hands-on Coding",
+                        "url": "https://example.com/"
+                    }
+                ]
+            }, {
+                "id": "module02-reference",
+                "title": "Reference Material & Links",
+                "links": [{
+                        "id": "module02-reference-inline-link-01",
+                        "title": "Learning Material",
+                        "url": "https://example.com/"
+                    }
+                ]
+            }, {
+                "id": "module02-assignments",
+                "title": "Assessments",
+                "links": [{
+                        "id": "module02-assignments-inline-link-01",
+                        "title": "Assignment 01",
+                        "url": "https://example.com/"
+                    },{
+                        "id": "module02-quiz",
+                        "title": "Quiz",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLScEsmOR7uH_hQs5rqzuUlYW6btDVbYI-wK9BbjHIZjLaccVvQ/viewform?usp=sf_link"
+                    }
+                ]
+            }
+        ]
+    },
+	
+Publish : 	
+https://docs.google.com/document/d/e/2PACX-1vRei14LQVwpuTmt6NN9BQFJjGGDL72va_twjqfkCDG4-vRJZvTKXEzCr2Hd40uSuxD_pgWgDHQX_12u/pub?embedded=true
+	
+
+
+With Full Screen : https://docs.google.com/document/d/1-5tLZ1YvzklBltyjYvexZP4JpXq3815b8V8De2I3KWU/preview
+
+
+
+With Side Bar : https://docs.google.com/document/d/1-5tLZ1YvzklBltyjYvexZP4JpXq3815b8V8De2I3KWU/edit?embedded=true&rm=demo
+
+
+{
+                        "id": "pe-module00-inline-link-011",
+                        "title": "Course Resources",
+                        "url": "DatabricksResources.md"
+                    },{
+                        "id": "pe-module00-inline-link-00",
+                        "title": "Practice Quiz",
+                        "url": "/quiz/1"
+                    },
+
+
+
+Misc
+
+https://docs.google.com/document/d/1-5tLZ1YvzklBltyjYvexZP4JpXq3815b8V8De2I3KWU/edit?usp=sharing&embedded=true&rm=demo
+
+
+SQL
+
+{
+        "id": "module-sql",
+        "class": "self-study",
+        "title": "Data Engineering Essentials",
+        "subtopics": [{
+				"id": "sql-module01",
+                "title": "SQL Notes and Workbook",
+                "links": [{
+                        "id": "module-sql-inline-link-01",
+                        "title": "Getting Started with SQL",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRwsSwzVfAvq6hS80YBC1WbE6zIBHuw4uBp8qYUDooiUzb-LbXfXrfmDfYkNFy_-BKfjCvykrBCf1TV/pub?embedded=true"
+                    }, {
+                        "id": "module-sql-inline-link-02",
+                        "title": "Working with Multiple Tables",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRvTBby_7twvIJf11Lsm5045EmbxI84EXsETdGFaj1Wk8JSncojEuf7d3q1CXSGIsVchD60PbqptyUM/pub?embedded=true"
+                    }, {
+                        "id": "module-sql-inline-link-03",
+                        "title": "Window Functions",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTlSW99EGrnS2w1kHNQa9U4LvXdGFlt_7rmUTeSRuBZcIEOcTM-skYkr5G8H8cA7aOiKnX6JwuLFypU/pub?embedded=true"
+                    }, {
+                        "id": "module01-sql-inline-link-04",
+                        "title": "Subquery",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vT5Glw7b0whSWBlFEXQPWIbmn-ovquHkurFW9YoXuO64JLlEIo-g-19gIVCkJAN-_39LDPsZpTQJfKu/pub?embedded=true"
+                    }, {
+                        "id": "module01-sql-inline-link-05",
+                        "title": "Common Table Expression",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRF4u4A-3yaIVXPOC4YOi_x893KhbioZ4CFDg2vSi7r05VmLzWtWixlOLcQaJKws2wOx1wz-vVotfPn/pub?embedded=true"
+                    }, {
+                        "id": "module01-sql-inline-link-06",
+                        "title": "Views",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQjlB81hj5XgxbYaTMhAGzChKxmmsWvw7XIAIAwODacvGUoi1wz7ayUBv3EfUoadPhC6mBnij3Pd3nG/pub?embedded=true"
+                    }, {
+                        "id": "module01-sql-inline-link-07",
+                        "title": "CTAS & Temp Tables",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRp0VSmybXcEKvfUaC46B2w50G9peAd0HYwTEiAwyoX1i6RMiy1mG4kxaqKvsEdd6mq0kL43XhTPxcb/pub?embedded=true"
+                    }, {
+                        "id": "module01-sql-inline-link-08",
+                        "title": "Stored Procedure",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vShtwct_RZGjvubRNSSnIkDJSNjD02f0KV-AZa3VsFb6x7WQnWHvHORbgvWuNYGzFkH3-D9H0sCAiZB/pub?embedded=true"
+                    }, {
+                        "id": "module01-sql-inline-link-09",
+                        "title": "Indexes",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vShtwct_RZGjvubRNSSnIkDJSNjD02f0KV-AZa3VsFb6x7WQnWHvHORbgvWuNYGzFkH3-D9H0sCAiZB/pub?embedded=true"
+                    }, {
+                        "id": "module01-sql-inline-link-10",
+                        "title": "Performance and Best Practices",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRP-xmyQlvYxhViQW1bzhxbjeHgxf9iqt-an9qTR25v6eT35rFMkPXpn1yfJLmsokMpqlyu6dtcMQVd/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    }, 
+

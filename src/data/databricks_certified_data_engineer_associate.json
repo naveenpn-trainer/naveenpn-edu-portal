@@ -1,0 +1,284 @@
+[{
+        "id": "seperator01",
+        "title": "Data Engineering Concepts and Ecosystem",
+        "class": "seperator"
+    }, {
+        "id": "dece-module01",
+        "title": "Data Engineering Concepts and Frameworks",
+        "subtopics": [{
+                "id": "dece-module01-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "dece-module01-classwork-inline-link-01",
+                        "title": "Module Presentation",
+                        "url": "https://docs.google.com/presentation/d/e/2PACX-1vRN7f5LAY6y5OJDwaUvG0TvPgJSlIs1i0dMA2CQDb5ZUY9O5ZPwXiQF06Czxch6cfmQCi6odbbLnD9l/embed?start=false&loop=false&delayms=3000"
+                    }
+                ]
+            }, {
+                "id": "dece-module02-classwork-inline-link-02",
+				"title": "Exploring Hadoop 2.x",
+                "links": [{
+                        "id": "dece-module02-notes-inline-link-10",
+                        "title": "Getting Started with Hadoop 2.x",
+                        "url": "https://docs.google.com/document/d/1gkKXX43eghTo0wYcLTt5xw9NIcf2HDYHxgOJ0M2c6wI/pub?embedded=true"
+                    }
+                ]
+            }, {
+                "id": "dece-module02-reference",
+                "title": "Reference Material & Links",
+                "links": [{
+                        "id": "dece-module01-notes-inline-link-01",
+                        "title": "Introduction to Big Data",
+                        "url": "https://docs.google.com/document/d/1P9TgxBNS5VA1lO0e66tMARUhQ3blvNJur7YL1G6ALBY/pub?embedded=true"
+                    }, {
+                        "id": "dece-module01-notes-inline-link-03",
+                        "title": "What is Data Engineering",
+                        "url": "https://docs.google.com/document/d/1vuEAd89cDiseqR9idFXPxukCafXwrAAy0VjmiIV959o/pub?embedded=true"
+                    }, {
+                        "id": "dece-module01-notes-inline-link-06",
+                        "title": "Important Data Engineering Terminologies",
+                        "url": "https://docs.google.com/document/d/1vuEAd89cDiseqR9idFXPxukCafXwrAAy0VjmiIV959o/pub?embedded=true"
+                    }, {
+                        "id": "dece-module01-notes-inline-link-50",
+                        "title": "Data Storage Types",
+                        "url": "https://docs.google.com/document/d/1p7Z38fL2IvN-8T0X3PRfFjViA43_oTyHmTjR63K_s0k/pub?embedded=true"
+                    }, {
+                        "id": "dece-module01-notes-inline-link-51",
+                        "title": "Big Data Project Phases",
+                        "url": "https://docs.google.com/document/d/1-hGOR3sAXduS0MbQ4Oyszy8SarTkqiAdmNjLdVBMbvo/edit?usp=sharing&embedded=true&rm=demo"
+                    }, {
+                        "id": "dece-module01-notes-inline-link-52",
+                        "title": "Integration of Data Management Architecture",
+                        "url": "https://docs.google.com/document/d/1oCQaMH_b2SKdrYCjHWQfZKiJoGqAbjzAtLjNGQKl7sM/pub?embedded=true"
+                    }, {
+                        "id": "dece-module01-notes-inline-link-52",
+                        "title": "Integration of Data Management Architecture",
+                        "url": "https://docs.google.com/document/d/1oCQaMH_b2SKdrYCjHWQfZKiJoGqAbjzAtLjNGQKl7sM/pub?embedded=true"
+                    }, {
+                        "id": "dece-module01-notes-inline-link-20",
+                        "title": "Azure Data Engineering Services",
+                        "url": "https://docs.google.com/document/d/1aZEcTXYKYob_95tpwKWiCB9FVXHkYlmXoaz_WAgyU00/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    },  {
+        "id": "seperator02",
+        "title": "Databricks Certified Data Engineer Associate",
+        "class": "seperator"
+    }, {
+        "id": "dcdea-m01",
+        "title": "Databricks Lakehouse Platform",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Classwork",
+                "links": [{
+                        "id": "databricks-module02-notes-inline-link-01",
+                        "title": "Introduction to Databricks Platform",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQj9aNsaorMr6y00vojiWQXJ70qPRej-HuZLvtjydFeYcc1c9NbMVkHD7iCwlbUHTmaIFiKaRW2Gvm6/pub?embedded=true"
+                    }, {
+                        "id": "dcdea-m01-inline-link-01",
+                        "title": "Databricks Lakehouse Platform",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRIDHiMD1VMH6kwYv03irP_iVWLFHZcutabtvljJ3S1j7Z_HAnwyDJ9-P08uLyeoAhiXAoaHtfJ65mB/pub?embedded=true"
+                    }
+                ]
+            },{
+                "id": "notes",
+                "title": "Blogs and References",
+                "links": [{
+                        "id": "dcdea-m01-notes-external-link-01",
+                        "title": "Configure Delta Lake to control data file size",
+                        "url": "https://docs.databricks.com/aws/en/delta/tune-file-size"
+                    },{
+                        "id": "dcdea-m01-notes-external-link-01",
+                        "title": "Vaccum",
+                        "url": "https://docs.databricks.com/aws/en/sql/language-manual/delta-vacuum"
+                    },{
+                        "id": "dcdea-m01-notes-external-link-01",
+                        "title": "Configure Delta Lake to control data file size",
+                        "url": "https://docs.databricks.com/aws/en/delta/tune-file-size"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "dcdea-m02",
+        "title": "ELT With Spark SQL and Python",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "dcdea-m02-notes-inline-link-01",
+                        "title": "Module Notes",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSHX4BjKNiG4mCChtFv-Q7c7yjHZtTCMDJm-R1cqHHxFRp1surtH1F1bnRwaTI-ocKJJG4t2s7ncc9Q/pub?embedded=true"
+                    }
+                ]
+            }, {
+                "id": "dcdea-m02-reference",
+                "title": "Reference Material & Links",
+                "links": [{
+                        "id": "dcdea-m02-reference-inline-link-01",
+                        "title": "Module Notes",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vR41q0k-hKW2VPC80IWBKo1CTRp5qyTICnNH-3dzHZ9ij3d8YFPnFJbKHWfo_ZIFJs9nmfYKXySVo-S/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "dcdea-m03",
+        "title": "Incremental Data Processing",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Classwork",
+                "links": [{
+                        "id": "dcdea-m03-cw-inline-link-01",
+                        "title": "Multi-hop Architecture",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vR41q0k-hKW2VPC80IWBKo1CTRp5qyTICnNH-3dzHZ9ij3d8YFPnFJbKHWfo_ZIFJs9nmfYKXySVo-S/pub"
+                    },{
+                        "id": "dcdea-m03-cw-inline-link-02",
+                        "title": "Structured Streaming",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vR41q0k-hKW2VPC80IWBKo1CTRp5qyTICnNH-3dzHZ9ij3d8YFPnFJbKHWfo_ZIFJs9nmfYKXySVo-S/pub"
+                    },{
+                        "id": "dcdea-m03-cw-inline-link-03",
+                        "title": "Auto Loader",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vR41q0k-hKW2VPC80IWBKo1CTRp5qyTICnNH-3dzHZ9ij3d8YFPnFJbKHWfo_ZIFJs9nmfYKXySVo-S/pub"
+                    },{
+                        "id": "dcdea-m03-cw-inline-link-04",
+                        "title": "Delta Live Tables",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vR41q0k-hKW2VPC80IWBKo1CTRp5qyTICnNH-3dzHZ9ij3d8YFPnFJbKHWfo_ZIFJs9nmfYKXySVo-S/pub"
+                    }
+                ]
+            }, {
+                "id": "dcdea-m03-ref",
+                "title": "Reference Material & Links",
+                "links": [{
+                        "id": "dcdea-m03-ref-inline-link-01",
+                        "title": "Introduction to Big Data",
+                        "url": "www.example.com"
+                    }
+                ]
+            }, {
+                "id": "dcdea-m03-assessments",
+                "title": "Assessments",
+                "links": [{
+                        "id": "dcdea-m03-quiz",
+                        "title": "Practice Quiz",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLScSgF-OwRa-q89BBn0o2llo0UBPqu8P-UA8zbXXWePrf4jvfw/viewform?usp=sf_link"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "dcdea-m04",
+        "title": "Production Pipelines",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "dcdea-m03-cw-inline-link-01",
+                        "title": "Module Notes",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSM7lTWC65sUD00Ov4XkCOCLzRuUas-CsPDNCIHxezRULZ-dVZ-4wOvwvw91hCb9nFKXyis_Gapgj55/pub"
+                    }
+                ]
+            }, {
+                "id": "dcdea-m03-ref",
+                "title": "Reference Material & Links",
+                "links": [{
+                        "id": "dcdea-m03-ref-inline-link-01",
+                        "title": "Introduction to Big Data",
+                        "url": "www.example.com"
+                    }
+                ]
+            }, {
+                "id": "spark-module02-assignments",
+                "title": "Assessments",
+                "links": [{
+                        "id": "spark-module02-quiz",
+                        "title": "Practice Quiz",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfcJgrAGCve-orR9gkIpN3cx_qS2fKQA7DfqTaep41dJBU6Mg/viewform?usp=sf_link"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "dcdea-m05",
+        "title": "Data Governance",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "dcdea-m05-cw-inline-link-01",
+                        "title": "Introduction to Unity Catalog",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vS4iQ04W-_THY1FgEfNDUPCXvbImdANkDUuhzErJ4c_cI0V_8axFxWLl5HFe0kpS068uWTxhMtsb0MC/pub?embedded=true"
+                    },
+                    {
+                        "id": "dcdea-m05-cw-inline-link-02",
+                        "title": "Hands on : Setup and Configure Unity Catalog",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSJdToSPlbM3fC52HJEbQ3cbGPveeD7enggMOufWaoo93WQ18DCFdVULrs_gCidLjzl8kveiNGSkbSE/pub?embedded=true"
+                    }
+                ]
+            }, {
+                "id": "dcdea-m05-reference",
+                "title": "Reference Material & Links",
+                "links": [{
+                        "id": "dece-module01-notes-inline-link-01",
+                        "title": "Introduction to Big Data",
+                        "url": "www.example.com"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "id": "dcdea-m06",
+        "class": "self-study",
+        "title": "Certification Readiness Practice Exams",
+        "subtopics": [{
+                "id": "notes",
+                "title": "Study Material",
+                "links": [{
+                        "id": "dcdea-m05-cw-inline-link-01",
+                        "title": "Module Notes",
+                        "url": "www.example.com"
+                    }
+                ]
+            }, {
+                "id": "dcdea-m06-assessments",
+                "title": "Practise Tests",
+                "links": [{
+                        "id": "dcdea-m06-assessments-quiz-01",
+                        "title": "Practice Quiz 01",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdr9JRuXhKVEssAkt8GKsqG3ojHATohhqCy5mN8z_4ospdEOQ/viewform?usp=dialog"
+                    },{
+                        "id": "dcdea-m06-assessments-quiz-02",
+                        "title": "Practice Quiz 02",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfJBnfeYR8haNuJRIYNZzLXIHhP-deZ7C-G3TkmIvZu8Jvtxg/viewform?usp=dialog"
+                    },{
+                        "id": "dcdea-m06-assessments-quiz-03",
+                        "title": "Practice Quiz 03",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSf7XDauEmudm8W6EgzFo4MOa1ghOI-lSCcV8GkzTrgjpHrqWA/viewform?usp=header"
+                    },{
+                        "id": "dcdea-m06-assessments-quiz-04",
+                        "title": "Practice Quiz 04",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSe3pOx-qjLEYdjQXf5b4pnBp35XePgeAUr8mk4x0TC3snsKpA/viewform?usp=dialog"
+                    },{
+                        "id": "dcdea-m06-assessments-quiz-05",
+                        "title": "Practice Quiz 05",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSf7XDauEmudm8W6EgzFo4MOa1ghOI-lSCcV8GkzTrgjpHrqWA/viewform?usp=header"
+                    },{
+                        "id": "dcdea-m06-assessments-quiz-16",
+                        "title": "Practice Quiz 16",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdWo5_R1MfFkSNcjcRq9Y_2M4fcRcCptzcECP9Onf5kTJK2NQ/viewform?usp=header"
+                    },{
+                        "id": "dcdea-m06-assessments-quiz-30",
+                        "title": "Practice Quiz 30",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeklDFVzJOesgBg89yM2mKnitb6DqLTAU5MTW2k_iIKCJitQw/viewform?usp=sf_link"
+                    },{
+                        "id": "dcdea-m06-assessments-quiz-31",
+                        "title": "Practice Quiz 31",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfiPbHUicMFQmI6QpfrZ97dGFUtpvgrJGJvYuTb7yl5Eo0-pA/viewform?usp=sf_link"
+                    }
+                ]
+            }
+        ]
+    }
+]

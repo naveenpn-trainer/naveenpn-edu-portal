@@ -1,0 +1,506 @@
+[{
+        "id": "seperator01",
+        "title": "Software Engineering Essentials",
+        "class": "seperator"
+    }, {
+        "id": "see-module01",
+        "title": "Apache Maven",
+        "subtopics": [{
+                "id": "see-module01-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "see-module01-classwork-inline-link-01",
+                        "title": "Module Presentation",
+                        "url": "https://docs.google.com/presentation/d/e/2PACX-1vRriioqkan5cK3tTafAr0B5GeAdd5vDf3o5vyIs8Hsxc6pAA-n_l-5q38fgnzPVX3iaTzDoKagfztpw/pub?start=false&loop=false&delayms=1000"
+                    }, {
+                        "id": "see-module01-classwork-inline-link-02",
+                        "title": "Hands on Lab - Referencing a JAR from Another Maven Project",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQCZ2Bokvky4qOOgCaTlxOEk9pkZ3jngkGKLcj9sz6Na8zB_1Z4Ukwf90ipSw3V01jevDscULE0h0MU/pub?embedded=true"
+						
+                    },
+					{
+                        "id": "see-module02-classwork-external-link-03",
+                        "title": "[Video] - Java for Begineers",
+                        "url": "https://drive.google.com/file/d/1KMbkpH8T2JcLJOY4DLgDSgjffU9tmNnA/view?usp=drive_link"
+                    }
+                ]
+            },
+			 {
+                "id": "see-module01-assignments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "see-module01-assignments-inline-link-01",
+                        "title": "Assignment 01 - Referencing a Utility JAR in Another Maven",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQyB93nxkf1zXwPJqpadB6PPsd8KoG9sJWfO2ELOR89eeD3rItaKSNspUgzW2pkdhVO1eTFBnW8Ybq6/pub?embedded=true"
+                    },
+					{
+                        "id": "see-module01-assignments-inline-link-02",
+                        "title": "Assignment 02 - Adding Selenium Dependencies in a Maven Project and Writing a Sample Test",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTcc9gJpvxB08TwzjtIRvzRaZDIAnQSTRBKE8Dwb9QzoPe68Lml_RGCLlQW1ik0Sac7yT4hmtImk-kf/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "seperator02",
+        "title": "Comprehensive Java Programming",
+        "class": "seperator"
+    },{
+        "id": "java-module01",
+        "title": "Language Fundamentals",
+        "subtopics": [{
+                "id": "java-module01-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "java-module01-classwork-inline-link-01",
+                        "title": "Module Notes",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTeyELrwnkTPxOqNjpuM3TgwQmAk7CmWJ9QcF-Ha6jUp8AbUdhzillNnClOPJPG_wT7pe1mBE943R6E/pub?embedded=true"
+                    }]
+            },
+			 {
+                "id": "java-module01-reference",
+                "title": "Blogs and Reference Links",
+                "links": [
+                    {
+                        "id": "java-module01-reference-inline-link-01",
+                        "title": "Blogs",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRJI2uI4_aQlvlgR1GcXcTpBWYjA_86D_xqbBzajsmwOlXIfixIv5jFu5Mv0OVoqEdw9W4BaR7NkI-p/pub?embedded=true"
+                    }
+                ]
+            },
+			 {
+                "id": "java-module01-assessments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "java-module01-assignments-inline-link-01",
+                        "title": "Hands-on Assignment",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSQxLgGZVFtsrpkHZLk6-mCTfEmJRsgATdg8G58YwfNcR-_U8o708osQFIqcjoOk6_iJn0195IH6FDO/pub?embedded=true"
+                    },
+					{
+                        "id": "java-module01-assignments-inline-link-02",
+                        "title": "Hands-on Practice Assignment",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRXB3suryRd3Y20tiuVOAyRM1Pmqt_8DSn4KOgvg3ae0ZjH8t-UfQ4-5Syo9nh2DH8GNiBcXuDhzBpC/pub?embedded=true"
+                    },
+					{
+						"id": "java-module01-quiz-inline-link-02",
+						"title": "Quiz",
+						"url": "https://docs.google.com/forms/d/e/1FAIpQLSc3XTQmfS6PXvOMLIBePWuGF3SorDxnWZ7rvzkoDcutE_zbRA/viewform?usp=sf_link"
+					}
+                ]
+            }
+        ]
+    },{
+        "id": "java-module02",
+        "title": "Exploring Class and Objects",
+        "subtopics": [{
+                "id": "java-module02-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "java-module02-classwork-inline-link-01",
+                        "title": "Module Notes",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTeyELrwnkTPxOqNjpuM3TgwQmAk7CmWJ9QcF-Ha6jUp8AbUdhzillNnClOPJPG_wT7pe1mBE943R6E/pub?embedded=true"
+                    },{
+                        "id": "java-module02-classwork-inline-link-02",
+                        "title": "Hands-on Workbook",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRkAO4af9wOLgAboD3AFVooAcJ4e6N6T3g_23oZV2mBAy4UqAFMJD9uvB9JPoCQ5WUciKHYxJJO5TxH/pub?embedded=true"
+                    }]
+            },
+			 {
+                "id": "java-module02-assignments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "java-module02-assignments-inline-link-01",
+                        "title": "Hands-on Assignment",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRkulB8FvTFj5k3d9nHeDrh05oLe4DED6MCgzaDajAFbApsgyGNKdL7z1S93n2f32TvM6uRpHGCwZF7/pub?embedded=true"
+                    }, {
+                        "id": "java-module02-assignments-inline-link-02",
+                        "title": "Hands-on Practice Assignment 01",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRBUtC18BucANo4wSy28hFQQ2IJ36kc3Qw_ZVQuGofsqrMrNkh1AGqvSV8QGXcaNq-msnipnHt2SxIO/pub?embedded=true"
+                    },
+					{
+						"id": "java-m02-quiz-inline-link-01",
+						"title": "Quiz",
+						"url": "https://docs.google.com/forms/d/e/1FAIpQLSeZmiGGRHqP1lmn7w2qXEypj5SdyAdJi3TA8IM_c5itXajm2A/viewform?usp=sf_link"
+					}
+                ]
+            }
+        ]
+    },{
+        "id": "java-module03",
+        "title": "Exploring Object Oriented Programming",
+        "subtopics": [{
+                "id": "java-module03-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "java-module03-classwork-inline-link-01",
+                        "title": "Module Notes",
+                        "url": "https://docs.google.com/presentation/d/e/2PACX-1vRrAsZyZLl6LrqhYpiFJoctFoaeLm7yCM9MnzfzsxJ3n8xXri-0w72ARy6Z7Rz7G1yphkInzj7E-lRN/embed?start=false&loop=false&delayms=3000"
+                    },{
+                        "id": "java-module03-classwork-inline-link-01",
+                        "title": "Relationships in Java",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vREaMiP00_AJeyF6G-EBys8YhQwIzvezjIGQytca98mbClMMIlDu5wBnz8tOh2Uc5trO5-kEqDYQrLC/pub?embedded=true"
+                    }]
+            },
+			 {
+                "id": "java-module03-assignments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "java-module03-assignments-inline-link-01",
+                        "title": "Hands-on Assignment",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQfcueOvRwMf_ZMMJt1ygzByrK5wrSFycy2iFFUd5k7KrzzcKqZ88_TuEpy6KDJqp5TAOLDjg4Skmz8/pub?embedded=true"
+                    },
+					{
+						"id": "java-m03-quiz-inline-link-01",
+						"title": "Quiz",
+						"url": "https://docs.google.com/forms/d/e/1FAIpQLScOzbqgr-8YNTVodigrfr1JVmTR2ToMC7CpsMoYB9gfNK5LXw/viewform?usp=sf_link"
+					}
+                ]
+            }
+        ]
+    },{
+        "id": "java-module04",
+        "title": "Abstract Classes & Interfaces: Writing Reusable Code",
+        "subtopics": [{
+                "id": "java-module04-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "java-module04-classwork-inline-link-01",
+                        "title": "Module Notes",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRHBNrHXc5hB2U1hhp_SwJGMcZmIIJTjQsl_B86V7HfBEsBM83sO5-wx2U3EY3EQ9_5vGnQZn7pio0Q/pub?embedded=true"
+                    }]
+            },{
+                "id": "java-module04-reference",
+                "title": "Reference Material & Links",
+                "links": [{
+                        "id": "java-module04-classwork-inline-link-01",
+                        "title": "Abstract Classes Practical Examples",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQm-Dn2W_bUMMoxRKvcpvrzB3lFjVBeAw_pEkw3Mu_EwyMIuyXSWXXpWlaE0vIU8mgjOhdrayidfCyx/pub?embedded=true"
+                    }]
+            },
+			 {
+                "id": "java-module04-assignments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "java-module04-assignments-inline-link-01",
+                        "title": "Hands-on Assignment",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vS6lfx_nxsMigpHig28lgOr6ABigDhXiR0rTnPb6VHIEiRiV47xAxuvmXSifrj8sG6HJMCs51KdVG-B/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "java-m05",
+        "title": "Exception Handling",
+        "subtopics": [{
+                "id": "java-m05-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "java-m05-classwork-inline-link-01",
+                        "title": "Exploring Exception Handling",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTyzW5o6EOZhHHpu1kdMZPL5iocl8zGX4yLSArjygAr4YKLwW9vidYma48WzhsIQ7fX4mpASXKAAcUv/pub?embedded=true"
+						
+                    },{
+                        "id": "java-m05-classwork-inline-link-02",
+                        "title": "Different Exceptions",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTiz_lcQs92TLrIIQ5jURAqjLAE0EKUoVHj-WgLFtgcbJjkluKE7Yiu46iqKldMN5_hxtfHvLKLk0FX/pub?embedded=true"
+						
+                    },{
+                        "id": "java-m05-classwork-inline-link-03",
+                        "title": "Exception Handling Enhancement",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRVC6GDbNFnsZWtJS4JqhthkOotc3LEVyQ0zaMKRUzG6iPeQSNH8big5QVOewaHzRgibt4nEOumwFL3/pub?embedded=true"
+						
+                    }]
+            },{
+                "id": "java-m05-reference",
+                "title": "Reference Material & Links",
+                "links": [{
+                        "id": "java-m05-classwork-inline-link-01",
+                        "title": "Blogs",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQ4AwJP_huW_jUVQ2RuvYlAeFRp1rrl0sn9AW4PuBmfcQuSDxb4TzRmPIsDo4tR5xA6wwMWCENeJW5z/pub?embedded=true"
+                    }]
+            },
+			 {
+                "id": "java-m05-assessments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "java-m05-assignments-inline-link-01",
+                        "title": "Hands-on Assignment",
+                        "url": "www.example.com"
+                    },
+					{
+						"id": "java-m05-quiz-inline-link-01",
+						"title": "Quiz",
+						"url": "https://docs.google.com/forms/d/e/1FAIpQLScUpK0fg_OeYc64Dmhcw_iDMKI14pu2SEzhnI18WFLVh1uxyQ/viewform?usp=dialog"
+					}
+                ]
+            }
+        ]
+    },{
+        "id": "java-m06",
+        "title": "Collection Framework",
+        "subtopics": [{
+                "id": "java-m06-cw",
+                "title": "Classwork",
+                "links": [{
+                        "id": "java-m06-cw-inline-link-01",
+                        "title": "Introduction to Collections",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTDE6fDn6KKpDliwCwb-8nXLMfwCrnpLZUygh-cKTeFyYhwt_mqlLZsf3ckfS5s6tBGeWvh81xZhpNQ/pub?embedded=true"
+                    },{
+                        "id": "java-m06-cw-inline-link-02",
+                        "title": "List Interface",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vR9xi_SuuCsheCs6NKMYLs_KVrlO23nEtU7p47vQSAHqfBvoY7vFaKr_ZP01PVCQ7z53PnE0WncpRLW/pub?embedded=true"
+                    },{
+                        "id": "java-m06-cw-inline-link-03",
+                        "title": "Set Interface",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vR6XY-zSRqWCPU2Hfd0e6i6K6KUzjVTbJ12K1fhKL5Htywes8TursyPOw76zln4bZHw3P2JgRBE9UEL/pub?embedded=true"
+                    },{
+                        "id": "java-m06-cw-inline-link-04",
+                        "title": "Queue Interface",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSU-no6iA2yymotznqfBxWn122zz2SUa8h7zkyoOn1JuQ7X4RABi-s6doBcYq0jqbZZy8jLuVRP2uvo/pub?embedded=true"
+                    },{
+                        "id": "java-m06-cw-inline-link-05",
+                        "title": "Deque Interface",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQRnPkxa2bfL1JFSDWJWdBen3UvXMPEQkAAyz_npWbDt36oYMMTaSqpqYtSrnwanA97Z0xx76UDcPsT/pub?embedded=true"
+                    },{
+                        "id": "java-m06-cw-inline-link-06",
+                        "title": "Map Interface",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRQx3q1k81O1ldSlyxLOOYAdDO5ic1SUUmKTqeDWgEICYl6DGNnKId92kQq8pk39ybceRcMV7jRnthY/pub?embedded=true"
+                    },{
+                        "id": "java-m06-cw-inline-link-07",
+                        "title": "Collections Class",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTZWV0l9Tkd1HH83EkRM7wTrCLvkj0Og4VmpTtxLwDnAEbCFwElu272VToh6yy8CHOF4wtb45Vs7ahs/pub?embedded=true"
+                    },{
+                        "id": "java-m06-cw-inline-link-15",
+                        "title": "Iterators",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTEZnpceWwPtmdQY9IyDRWFAYjVOwWU96-5mWAr3rJG2dqdooAt1N-dTWULbqpNmLiqcNQ_BELjM1uB/pub?embedded=true"
+                    }]
+            },
+			 {
+                "id": "java-m06-assessments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "java-m06-assignments-inline-link-01",
+                        "title": "Hands-on Assignment",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQ1urD1VUR2gW4wetRWuTHPcvNX1JqtYI4Vhrkssv1X40m_a3AMztnGdq4tIxoTrkEic-MpqP5Jra2R/pub?embedded=true"
+                    },{
+                        "id": "java-m06-assignments-inline-link-02",
+                        "title": "Practise Assignment - I",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQUv-akIvmkOJ0PzdHGUWSn38IZugqILODCmzdFxR5UCVBA9Prz8yVtHY4hUiQFjoRy1Fw0ltGeAGVP/pub?embedded=true"
+                    },{
+                        "id": "java-m06-assignments-inline-link-03",
+                        "title": "Practise Assignment - I",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vS9MJqfKa2XdQHQhvpMhbkbbJ-TVQ6CdETRnuzWJ1NXA-EgStc8xotFUalLC1WQauYqjf2iQJ8GVtwj/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "java-m07",
+        "title": "Generics and Collection",
+        "subtopics": [{
+                "id": "java-m07-cw",
+                "title": "Classwork",
+                "links": [{
+                        "id": "java-m07-cw-inline-link-01",
+                        "title": "Module Notes",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTeyELrwnkTPxOqNjpuM3TgwQmAk7CmWJ9QcF-Ha6jUp8AbUdhzillNnClOPJPG_wT7pe1mBE943R6E/pub?embedded=true"
+                    }]
+            },
+			 {
+                "id": "java-m07-assignments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "java-m07-assignments-inline-link-01",
+                        "title": "Hands-on Assignment",
+                        "url": "www.example.com"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "java-m08",
+        "title": "Lambda Expression and Functional Interface",
+        "subtopics": [{
+                "id": "java-m08-cw",
+                "title": "Classwork",
+                "links": [{
+                        "id": "java-m08-cw-inline-link-01",
+                        "title": "Module Notes",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vR_0jeGA_9hfClFukJOmEmJ3YpbJGQOl2DVf424RUPq6N7EK9fpOM_xzNww4VShBwF1JOkXDnfNfI4L/pub?embedded=true"
+						
+                    }]
+            },
+			 {
+                "id": "java-m08-assignments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "java-m08-assignments-inline-link-01",
+                        "title": "Hands-on Assignment",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSaUG4nz5RyXqfNG6u2CfCLMBRTy2jMHGyKkTlpXY3oISxIhrNN-ah_Yah7Tw3b2TaXj-aj1CAuPfd0/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "java-m09",
+        "title": "Functional Programming using Lambdas and Streams",
+        "subtopics": [{
+                "id": "java-m09-cw",
+                "title": "Classwork",
+                "links": [{
+                        "id": "java-m09-cw-inline-link-01",
+                        "title": "Module Notes",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vQlMER4m_TSATwWoAP_wv3wvvLbpUsabPXl1BCqDQWW45MJaQPWRRfjgOc2j-P1bTRORdqVOvNWhRUB/pub?embedded=true"
+                    }]
+            },
+			 {
+                "id": "java-m09-assignments",
+                "title": "Assessments",
+                "links": [
+                    {
+                        "id": "java-m09-assignments-inline-link-01",
+                        "title": "Hands-on Assignment",
+                        "url": "www.example.com"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "java-capstone-project",
+        "title": "Capstone Project",
+        "subtopics": [{
+                "id": "java-module07-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "java-capstone-classwork-inline-link-01",
+                        "title": "Movie Operations",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTfRdrMXFnzAobKAEqAsn7QKtVL7aRY1_zrw8485dsxI8gQRTrSHFmIEAxqWTyDSeljy33K46ixhy9w/pub?embedded=true"
+                    },{
+                        "id": "java-capstone-classwork-inline-link-01",
+                        "title": "Book Catalog Management System",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSW5FTVzq95AVlibYewCjtF06bzfi4W0R8ZNjNGqZ-UwhiVyluw57bj7G8memIgI1Kf2MopCZyyTJ6Y/pub?embedded=true"
+                    }]
+            }
+        ]
+    },{
+        "id": "java-interview-preparation-01",
+		"class": "self-study",		
+        "title": "Java Interview Questions",
+        "subtopics": [
+            {
+                "id": "java-interview-preparation-01-notes",
+                "title": "Interview QA",
+                "links": [
+                     {
+                        "id": "java-interview-preparation-01-notes-inline-link-03",
+                        "title": "Object Oriented Programming",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRMSa_to8L6V4RMmDnohGrZQ_n8BD7cCltqC3uTJDfHaSOHYngFl5KLcnbFyAGloqPtZ6DeMLAQP6dV/pub?embedded=true"
+                    },{
+                        "id": "java-interview-preparation-01-notes-inline-link-04",
+                        "title": "Abstract Class and Interface",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vTPzQ210R_iN9GkjwmN-_7LP4VDJYveS_mnC3v6f2O09_Cb48gVOIGWACkurybbYYP761Ndv3zn5woz/pub?embedded=true"
+                    },
+                    {
+                        "id": "java-interview-preparation-01-notes-inline-link-05",
+                        "title": "Exception Handling",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vRfN4QKfE1mzRVzVmRyLASPXvstPyIuvyy-8xqNdhGn7nblo2yJ5sojERbLGfmjeJE8MU3F3G4SGnuO/pub?embedded=true"
+                    },
+                    {
+                        "id": "java-interview-preparation-01-notes-inline-link-06",
+                        "title": "Collections",
+                        "url": "https://docs.google.com/document/d/e/2PACX-1vSHtC7G5jz_U0QFGISJIOCOmYoXLx0Ud6J8Tack5sqAOTXEkrsXg3gn3997sLJME4nz8mWyuennhXgV/pub?embedded=true"
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "seperator03",
+        "title": "Building RESTful APIs with Spring Boot",
+        "class": "seperator"
+    },{
+        "id": "seperator04",
+        "title": "Spring Data JPA with Hibernate",
+        "class": "seperator"
+    },{
+        "id": "seperator05",
+        "title": "Microservices with Spring Boot and Cloud Platforms",
+        "class": "seperator"
+    },{
+        "id": "seperator06",
+        "title": "Securing RESTful APIs with Spring Boot",
+        "class": "seperator"
+    },{
+        "id": "seperator06",
+        "title": "Unit Testing Java Application Spring Boot Unit Testing",
+        "class": "seperator"
+    },{
+        "id": "seperator06",
+        "title": "Software Design Principles & Patterns",
+        "class": "seperator"
+    },
+	{
+        "id": "sdp-module01",
+        "title": "Design Guidelines",
+        "subtopics": [{
+                "id": "sdp-m01-classwork",
+                "title": "Classwork",
+                "links": [{
+                        "id": "sdp-m01-cw-external-link-01",
+                        "title": "Lombok API",
+                        "url": "http://blog.naveenpn.com/complete-guide-to-lombok"
+                    }]
+            }
+        ]
+    },{
+        "id": "sdp-m02",
+        "title": "SOLID Principles",
+        "subtopics": [{
+                "id": "sdp-m02-cw",
+                "title": "Classwork",
+                "links": [{
+                        "id": "sdp-m02-cw-external-link-01",
+                        "title": "Lombok API",
+                        "url": "www.example.com"
+                    }]
+            }
+        ]
+    },{
+        "id": "sdp-m03",
+        "title": "Design Patterns",
+        "subtopics": [{
+                "id": "sdp-m03-cw-01",
+                "title": "Creational Patterns",
+                "links": [{
+                        "id": "sdp-m03-cw-01-external-link-01",
+                        "title": "Creational Patterns",
+                        "url": "www.example.com"
+                    }]
+            },{
+                "id": "sdp-m03-cw-02",
+                "title": "Structural Patterns",
+                "links": [{
+                        "id": "sdp-m02-cw-02-external-link-01",
+                        "title": "Structural Patterns",
+                        "url": "www.example.com"
+                    }]
+            },{
+                "id": "sdp-m03-cw-03",
+                "title": "Behavioral Patterns",
+                "links": [{
+                        "id": "sdp-m02-cw-01-external-link-01",
+                        "title": "Behavioral Patterns",
+                        "url": "www.example.com"
+                    }]
+            }
+        ]
+    }
+]
